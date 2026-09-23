@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
 """Build and validate the LCRD public data products.
 
 The repository intentionally uses only the Python standard library so that
@@ -460,12 +461,13 @@ def build() -> int:
         collections[key] = load_records(directory, filename)
     generated_at = os.environ.get("LCRD_GENERATED_AT", "1970-01-01T00:00:00Z")
     source_commit = os.environ.get("LCRD_SOURCE_COMMIT", "unknown")
-    rich = {"lcrdVersion": DATASET_VERSION, "schemaVersion": SCHEMA_VERSION, "generatedAt": generated_at, "sourceCommit": source_commit, **collections}
+    rich = {"lcrdVersion": DATASET_VERSION, "schemaVersion": SCHEMA_VERSION, "license": "CC-BY-4.0", "generatedAt": generated_at, "sourceCommit": source_commit, **collections}
     DIST.mkdir(parents=True, exist_ok=True)
     write_json(DIST / "lcrd.json", rich)
     minimal = {
         "lcrdVersion": DATASET_VERSION,
         "schemaVersion": SCHEMA_VERSION,
+        "license": "CC-BY-4.0",
         "generatedAt": generated_at,
         "sourceCommit": source_commit,
         "cameras": collections["cameras"],

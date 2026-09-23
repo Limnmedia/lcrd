@@ -4,6 +4,19 @@ LCRD contributions should be atomic. A contributor may add one observation,
 one source, one alias, a corrected dimension, or a new entity without filling
 in unrelated fields.
 
+## Contribution licensing
+
+By contributing material that you have the right to contribute, you submit it
+under the applicable LCRD license: database and data contributions under CC BY
+4.0, software and tooling contributions under Apache-2.0, and documentation
+contributions under CC BY 4.0. Contributors retain whatever rights they retain
+under those licenses; this project does not require a copyright transfer, CLA,
+or DCO.
+
+Do not submit copyrighted manufacturer images, proprietary documents, sample
+media, or other material that you do not have the right to redistribute.
+Facts and properly attributed observations are the intended contribution model.
+
 ## Required provenance
 
 Every factual addition needs a source or an explicit statement that it is a

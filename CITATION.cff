@@ -5,4 +5,5 @@ abstract: "A provenance-aware, machine-readable reference database for cameras, 
 type: dataset
 repository-code: "https://github.com/Limnmedia/lcrd"
 url: "https://github.com/Limnmedia/lcrd"
-license: "NOASSERTION"
+notes:
+  - "LCRD uses a dual-license structure; see LICENSE for data, software, documentation, and Research boundaries."

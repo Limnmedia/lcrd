@@ -47,7 +47,8 @@ do not silently rewrite this snapshot.
 
 ## Known follow-up work
 
-- Decide and add the repository's open-source/data license.
+- Preserve the repository's approved licensing boundaries when adding future
+  data, documentation, and tooling contributions.
 - Audit and strengthen missing source URLs identified by `qa_flags` and
   `qa_pass4_flags`.
 - Keep EXIF observations distinct from manufacturer identifiers and aliases.

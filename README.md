@@ -75,11 +75,17 @@ by the field descriptions in the freeze notes.
 
 ## Status and licensing
 
-The `Research/` directory is ready for public review, but the repository still
-needs a project-level license decision before it should be presented as a
-reusable public data product. No license is asserted by this repository yet;
-see [`SECURITY.md`](SECURITY.md) and [`CONTRIBUTING.md`](CONTRIBUTING.md) for
-project guidance while that decision is pending.
+The repository uses a dual-license structure:
+
+- Data and distributions: [CC BY 4.0](LICENSES/CC-BY-4.0.txt)
+- Tools, tests, and schemas: [Apache-2.0](LICENSES/Apache-2.0.txt)
+- Original documentation: CC BY 4.0
+
+Recommended data attribution: “LCRD — LIMN Camera Reference Database,
+LIMNMEDIA LLC, licensed under CC BY 4.0.” See [`LICENSE`](LICENSE) for the
+complete boundary and [`Research/LICENSING.md`](Research/LICENSING.md) for
+source-material limitations. Third-party materials are not blanket-relicensed
+by LCRD.
 
 ## Related project
 

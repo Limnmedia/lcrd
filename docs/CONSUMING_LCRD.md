@@ -9,7 +9,10 @@ python tools/lcrd.py build
 Applications that need rich provenance should use `dist/lcrd.json`. Small
 applications can use `dist/lcrd.min.json`, which contains cameras, devices,
 camera modules, and sensors. The CSV is intended for inspection and
-spreadsheet workflows.
+spreadsheet workflows. The JSON distributions identify `CC-BY-4.0` in their
+top-level metadata. The CSV remains ordinary parseable CSV; its CC BY 4.0
+status is documented by [`LICENSE`](../LICENSE) and this repository's
+licensing documentation rather than an extra preamble row.
 
 Example lookup in Python:
 

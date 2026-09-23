@@ -8548,6 +8548,7 @@
   "generatedAt": "1970-01-01T00:00:00Z",
   "lcrdVersion": "0.1.0",
   "lenses": [],
+  "license": "CC-BY-4.0",
   "observations": [
     {
       "id": "observation:apple-iphone-11-pro-max-rear-main",

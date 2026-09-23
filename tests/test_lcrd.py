@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 import hashlib
 import json
 import re
@@ -67,6 +68,8 @@ class LcrdInfrastructureTest(unittest.TestCase):
     def test_metadata_and_build_are_deterministic(self):
         self.assertEqual(self.dist["lcrdVersion"], "0.1.0")
         self.assertEqual(self.dist["schemaVersion"], "1.0.0")
+        self.assertEqual(self.dist["license"], "CC-BY-4.0")
+        self.assertEqual(self.minimum["license"], "CC-BY-4.0")
         first = hashlib.sha256((ROOT / "dist" / "lcrd.json").read_bytes()).hexdigest()
         lcrd.build()
         second = hashlib.sha256((ROOT / "dist" / "lcrd.json").read_bytes()).hexdigest()

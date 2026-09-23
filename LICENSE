@@ -1,0 +1,42 @@
+LCRD — LIMN Camera Reference Database
+
+This repository uses a dual-license structure:
+
+Database and data
+-----------------
+The original LCRD database contents and generated data distributions in
+`data/` and `dist/` are licensed under the Creative Commons Attribution 4.0
+International license (CC BY 4.0), to the extent LIMNMEDIA LLC and
+contributors have rights to license them.
+
+Software and tooling
+--------------------
+Repository tooling, tests, schemas, and associated software infrastructure in
+`tools/`, `tests/`, and `schema/` are licensed under the Apache License 2.0
+(Apache-2.0).
+
+Documentation
+-------------
+Original LCRD documentation is licensed under CC BY 4.0 unless a file states
+otherwise or contains third-party material requiring different treatment.
+
+Research and third-party material
+---------------------------------
+`Research/` is preserved source and historical research material and is not
+blanket-licensed by this notice. Original LCRD-authored material may be
+covered by the applicable LCRD license. Third-party specifications,
+manufacturer documentation, photographs, sample media, trademarks, logos,
+product names, and other externally authored works retain their original
+rights and are not relicensed merely because LCRD references them.
+
+Complete license texts are available in:
+
+- `LICENSES/CC-BY-4.0.txt`
+- `LICENSES/Apache-2.0.txt`
+
+Recommended attribution for LCRD data:
+
+> LCRD — LIMN Camera Reference Database, LIMNMEDIA LLC, licensed under CC BY 4.0.
+
+Attribution may be provided in a reasonable location appropriate to the
+consuming work, consistent with CC BY 4.0.
