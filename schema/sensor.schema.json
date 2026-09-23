@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Limnmedia/lcrd/schema/sensor.schema.json",
+  "title": "LCRD physical sensor geometry",
+  "type": "object",
+  "required": ["id", "owner_id", "width_mm", "height_mm", "geometry_status"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^sensor:"},
+    "name": {"type": ["string", "null"]},
+    "owner_id": {"type": "string"},
+    "owner_ids": {"type": "array", "items": {"type": "string", "pattern": "^(camera|camera_module):"}},
+    "width_mm": {"type": ["number", "null"], "exclusiveMinimum": 0},
+    "height_mm": {"type": ["number", "null"], "exclusiveMinimum": 0},
+    "diagonal_mm": {"type": ["number", "null"], "exclusiveMinimum": 0},
+    "geometry_status": {"type": "string"},
+    "geometry_method": {"type": ["string", "null"]},
+    "evidence_tier": {"type": ["string", "null"], "enum": ["A", "B", "C", "D", "E", null]},
+    "source_observation_id": {"type": ["string", "null"]},
+    "source_observation_ids": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": true
+}

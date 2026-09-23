@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Limntmedia/lcrd/schema/observation.schema.json",
+  "title": "LCRD observation",
+  "type": "object",
+  "required": ["id", "subject_id", "kind", "legacy"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^observation:"},
+    "subject_id": {"type": "string"},
+    "source_id": {"type": ["string", "null"]},
+    "kind": {"type": "string"},
+    "observed_at": {"type": ["string", "null"]},
+    "values": {"type": "object"},
+    "legacy_record_id": {"type": "string"},
+    "legacy": {"type": "object"}
+  },
+  "additionalProperties": true
+}

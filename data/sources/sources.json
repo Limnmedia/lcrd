@@ -1,0 +1,1138 @@
+{
+  "records": [
+    {
+      "accessed": null,
+      "id": "source:1-1-28-inch-sensor-class-dimensions-inferred-from-optical-format:c7e4144d18340e9e",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Insta360",
+      "source_type": "research_reference",
+      "title": "1/1.28-inch sensor class; dimensions inferred from optical format",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:1-1-8-inch-sensor-class-dimensions-inferred-from-optical-format:5b87c0aeaa33c1a4",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Insta360",
+      "source_type": "research_reference",
+      "title": "1/1.8-inch sensor class; dimensions inferred from optical format",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:1-2-inch-sensor-class-dimensions-inferred-from-optical-format:9caf2ff3c9a9d3a7",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Logitech",
+      "source_type": "research_reference",
+      "title": "1/2-inch sensor class; dimensions inferred from optical format",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:1-2-inch-sensor-class-physical-dimensions-inferred:7f4faaac7d5079ea",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Ricoh",
+      "source_type": "research_reference",
+      "title": "1/2-inch sensor class; physical dimensions inferred",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:1-3-inch-sensor-class-dimensions-inferred-from-optical-format:55719bce28d52426",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Logitech",
+      "source_type": "research_reference",
+      "title": "1/3-inch sensor class; dimensions inferred from optical format",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:apple-dpreview-compiled:06b3b4d89e0cb684",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "Apple/DPReview compiled",
+      "url": "https://www.apple.com/newsroom/2020/10/apple-introduces-iphone-12-pro-and-iphone-12-pro-max-with-5g/"
+    },
+    {
+      "accessed": null,
+      "id": "source:apple-iphone-17e-technical-specifications-family-comparison:fde0ced8ffd5433d",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "Apple iPhone 17e technical specifications + family comparison",
+      "url": "https://www.apple.com/iphone-17e/specs/"
+    },
+    {
+      "accessed": null,
+      "id": "source:apple-secondary-audit-needed:3a03a038ff153694",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "Apple / secondary audit needed",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:apple-tech-specs:cfdccfe393b26d27",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "Apple tech specs",
+      "url": "https://www.apple.com/iphone-17e/specs/"
+    },
+    {
+      "accessed": null,
+      "id": "source:arri-alev-3-a2x-specifications:2e26427b4ef21986",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "ARRI",
+      "source_type": "research_reference",
+      "title": "ARRI ALEV 3 A2X specifications",
+      "url": "https://www.arri.com/en/camera-systems/cameras/alexa-mini-lf"
+    },
+    {
+      "accessed": null,
+      "id": "source:arri-alev-3-a2x-specifications:464951fdc8694bfb",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "ARRI",
+      "source_type": "research_reference",
+      "title": "ARRI ALEV 3 A2X specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:arri-alev-4-specifications:578a6ef68e76d9d5",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "ARRI",
+      "source_type": "research_reference",
+      "title": "ARRI ALEV 4 specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:arri-alev-iii-sensor-specifications:30e50066532ddf1f",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "ARRI",
+      "source_type": "research_reference",
+      "title": "ARRI ALEV III sensor specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:blackmagic-cinema-camera-2-5k-specifications:84612ecb112b5f5f",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Blackmagic",
+      "source_type": "research_reference",
+      "title": "Blackmagic Cinema Camera 2.5K specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:blackmagic-design-specifications:fe4239abd8256001",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Blackmagic",
+      "source_type": "research_reference",
+      "title": "Blackmagic Design specifications",
+      "url": "https://www.blackmagicdesign.com/products/blackmagiccinemacamera/techspecs"
+    },
+    {
+      "accessed": null,
+      "id": "source:blackmagic-production-camera-4k-specifications:1b0d82132a57d20f",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Blackmagic",
+      "source_type": "research_reference",
+      "title": "Blackmagic Production Camera 4K specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-eos-c50-specifications:a87e1b4d34fe424e",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon EOS C50 specifications",
+      "url": "https://www.usa.canon.com/support/p/eos-c50"
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-eos-r6-v-product-manual-specifications:9357b148e3581c00",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon EOS R6 V Product Manual — Specifications",
+      "url": "https://cam.start.canon/en/C023/manual/html/UG-11_Reference_0080.html"
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-manual:94827109612d7fa0",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon manual",
+      "url": "https://cam.start.canon/vi/C003/manual/html/UG-09_Reference_0100.html"
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-manual:981353aca5ccaad7",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon manual",
+      "url": "https://cam.start.canon/en/C005/manual/html/UG-10_Reference_0100.html"
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-specifications-technical-database:c69c39dd7666417c",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon specifications / technical database",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-specifications:2800e36cd76401b6",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon specifications",
+      "url": "https://www.usa.canon.com/support/p/eos-r50"
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-specifications:2ee3357c20710ee8",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon specifications",
+      "url": "https://www.usa.canon.com/support/p/eos-r6-mark-ii"
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-specifications:50c3218d64afb296",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon specifications",
+      "url": "https://asia.canon/en/support/6200376100"
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-specifications:5bab2dd68ddb7563",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon specifications",
+      "url": "https://www.usa.canon.com/support/p/eos-r100"
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-specifications:a0887b4dd39b222c",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon specifications",
+      "url": "https://www.usa.canon.com/shop/p/eos-r5-mark-ii"
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-specifications:c62086019405af6e",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:canon-specifications:e2e2b91a4ff00f66",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Canon specifications",
+      "url": "https://www.usa.canon.com/support/p/eos-r6-mark-iii"
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-asus-camera-specification:d15201cb2c46b08d",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "ASUS",
+      "source_type": "research_reference",
+      "title": "Compiled ASUS camera specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-camera-specification:ace21a406b54aa15",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "Compiled camera specification",
+      "url": "https://www.phonearena.com/phones/Apple-iPhone-12-Pro_id11294"
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-camera-specification:c898951b834ca74c",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Motorola",
+      "source_type": "research_reference",
+      "title": "Compiled camera specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-current-pixel-specification:17cfeccfbb428dce",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "Compiled current Pixel specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-device-camera-specification:c182d45043bbb9b2",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Xiaomi",
+      "source_type": "research_reference",
+      "title": "Compiled device camera specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-fairphone-camera-specification:4c99da4c55e4d145",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Fairphone",
+      "source_type": "research_reference",
+      "title": "Compiled Fairphone camera specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-galaxy-s-specification:b02bc085d3377423",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "Compiled Galaxy S specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-nothing-camera-specification:13dc153157432454",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Nothing",
+      "source_type": "research_reference",
+      "title": "Compiled Nothing camera specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-phonearena-family-specification:8284b05ffc809e09",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "Compiled/PhoneArena family specification",
+      "url": "https://www.phonearena.com/phones/Apple-iPhone-11-Pro_id11239"
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-pixel-camera-specification:245dde70f83d13ec",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "Compiled Pixel camera specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-pixel-specification:8fc0e95587125599",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "Compiled Pixel specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:compiled-xperia-camera-specification:6b7e5e9ce93608ab",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Compiled Xperia camera specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:could-not-resolve-this-as-a-canon-camera-model-verify-dragonframe-row-normalization:635152c1eb66647c",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Canon",
+      "source_type": "research_reference",
+      "title": "Could not resolve this as a Canon camera model; verify Dragonframe row/normalization.",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:device-contains-separate-rgb-depth-imagers-no-single-sensor-dimension-is-valid:fa1a173c4a2fd0ab",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Intel RealSense",
+      "source_type": "research_reference",
+      "title": "Device contains separate RGB/depth imagers; no single sensor dimension is valid.",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:dpreview-current-pro-comparison:00fd0c2cfb14e672",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "DPReview current Pro comparison",
+      "url": "https://www.dpreview.com/articles/iphone-pro-camera-upgrade-guide/"
+    },
+    {
+      "accessed": null,
+      "id": "source:dpreview:24e153a5783f91e7",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "DPReview",
+      "url": "https://www.dpreview.com/articles/apples-iphone-14-and-14-pro-imaging-tech-examined/"
+    },
+    {
+      "accessed": null,
+      "id": "source:dpreview:48f3ee29b4c0f0df",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "DPReview",
+      "url": "https://www.dpreview.com/news/8163093616/iphone-16-pro-worth-upgrading-13-14-15-apple-cameras/"
+    },
+    {
+      "accessed": null,
+      "id": "source:dpreview:6959baaf02eac9c6",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "DPReview",
+      "url": "https://www.dpreview.com/articles/6780391159/all-apple-iphone-13-and-13-pro-camera-upgrades-explained/"
+    },
+    {
+      "accessed": null,
+      "id": "source:dpreview:8214c7f843e80088",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "DPReview",
+      "url": "https://www.dpreview.com/articles/apple-s-iphone-15-and-15-pro-imaging-tech-examined/"
+    },
+    {
+      "accessed": null,
+      "id": "source:dsmc2-is-a-camera-platform-red-offered-dragon-helium-gemini-monstro-and-other-sensor-variants:5e2b8adea406e779",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "RED",
+      "source_type": "research_reference",
+      "title": "DSMC2 is a camera platform; RED offered DRAGON, HELIUM, GEMINI, MONSTRO and other sensor variants.",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:dxomark-phonearena:9749d5af351ea731",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "DXOMARK / PhoneArena",
+      "url": "https://www.phonearena.com/phones/Apple-iPhone-12-Pro_id11294"
+    },
+    {
+      "accessed": null,
+      "id": "source:fujifilm-specifications:1aa186c464e79214",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Fujifilm",
+      "source_type": "research_reference",
+      "title": "Fujifilm specifications",
+      "url": "https://www.fujifilm-x.com/en-gb/products/cameras/gfx100-ii/specifications/"
+    },
+    {
+      "accessed": null,
+      "id": "source:fujifilm-specifications:1afe9f9dadff5c4e",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Fujifilm",
+      "source_type": "research_reference",
+      "title": "Fujifilm specifications",
+      "url": "https://www.fujifilm-x.com/en-us/products/cameras/gfx100/"
+    },
+    {
+      "accessed": null,
+      "id": "source:fujifilm-specifications:97add735d2f18456",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Fujifilm",
+      "source_type": "research_reference",
+      "title": "Fujifilm specifications",
+      "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t5/specifications/"
+    },
+    {
+      "accessed": null,
+      "id": "source:fujifilm-specifications:b2ae5508166cdfb5",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Fujifilm",
+      "source_type": "research_reference",
+      "title": "Fujifilm specifications",
+      "url": "https://www.fujifilm-x.com/en-gb/products/cameras/x-h2s/specifications/"
+    },
+    {
+      "accessed": null,
+      "id": "source:fujifilm-specifications:bb835647e7b0d861",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Fujifilm",
+      "source_type": "research_reference",
+      "title": "Fujifilm specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:google-phonearena:444ad244bd605b28",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "Google / PhoneArena",
+      "url": "https://www.phonearena.com/phones/Google-Pixel-9-Pro_id12285"
+    },
+    {
+      "accessed": null,
+      "id": "source:google-pixel-hardware-tech-specs:f423da9c34cc2fd3",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "Google Pixel hardware tech specs",
+      "url": "https://support.google.com/pixelphone/answer/7158570?hl=en"
+    },
+    {
+      "accessed": null,
+      "id": "source:intel-realsense-d400-documentation-ov9782-sensor-specification:9538629272104393",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Intel RealSense",
+      "source_type": "research_reference",
+      "title": "Intel RealSense D400 documentation / OV9782 sensor specification",
+      "url": "https://support.realsenseai.com/hc/en-us/community/posts/1500000478421-D455-RGB-sensor-confirmation"
+    },
+    {
+      "accessed": null,
+      "id": "source:intel-realsense-d400-series-datasheet-realsense-support:4676010893766247",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Intel RealSense",
+      "source_type": "research_reference",
+      "title": "Intel RealSense D400 Series Datasheet / RealSense support",
+      "url": "https://www.intelrealsense.com/wp-content/uploads/2022/04/Intel-RealSense-D400-Series-Datasheet-April-2022.pdf"
+    },
+    {
+      "accessed": null,
+      "id": "source:iphone-16-ultrawide-sensor-format-compiled-technical-sources:346470318072b347",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "iPhone 16 ultrawide sensor format — compiled technical sources",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:leica-specifications:a9494d9daa9d8515",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Leica",
+      "source_type": "research_reference",
+      "title": "Leica specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:motorola-official-specifications:50a4ead56f309a87",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Motorola",
+      "source_type": "research_reference",
+      "title": "Motorola official specifications",
+      "url": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-2025/pmipmhh39mq"
+    },
+    {
+      "accessed": null,
+      "id": "source:motorola-official-specifications:636e5e526f7fb8e2",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Motorola",
+      "source_type": "research_reference",
+      "title": "Motorola official specifications",
+      "url": "https://www.motorola.com/us/en/p/phones/moto-g/moto-g-power-2025/pmipmhi39mv"
+    },
+    {
+      "accessed": null,
+      "id": "source:nikon-specifications-technical-database:1b686ccd8d0f353c",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Nikon",
+      "source_type": "research_reference",
+      "title": "Nikon specifications / technical database",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:nikon-specifications:1d74a3a8b4569623",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Nikon",
+      "source_type": "research_reference",
+      "title": "Nikon specifications",
+      "url": "https://www.nikonusa.com/p/d7500/1582/overview"
+    },
+    {
+      "accessed": null,
+      "id": "source:nikon-specifications:5d5bc2d7550d8d93",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Nikon",
+      "source_type": "research_reference",
+      "title": "Nikon specifications",
+      "url": "https://www.nikonusa.com/p/d850/1585/overview"
+    },
+    {
+      "accessed": null,
+      "id": "source:nikon-specifications:6b3815951e523b57",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Nikon",
+      "source_type": "research_reference",
+      "title": "Nikon specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:nikon-specifications:a30ef274f4836e15",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Nikon",
+      "source_type": "research_reference",
+      "title": "Nikon specifications",
+      "url": "https://www.nikonusa.com/p/z50ii/1784/overview"
+    },
+    {
+      "accessed": null,
+      "id": "source:nikon-specifications:b724f4c6fb788669",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Nikon",
+      "source_type": "research_reference",
+      "title": "Nikon specifications",
+      "url": "https://www.nikonusa.com/p/z6iii/1892/overview"
+    },
+    {
+      "accessed": null,
+      "id": "source:nikon-specifications:b7c5aab17bf3ac22",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Nikon",
+      "source_type": "research_reference",
+      "title": "Nikon specifications",
+      "url": "https://www.nikonusa.com/p/z-8/1698/overview"
+    },
+    {
+      "accessed": null,
+      "id": "source:olympus-specifications:d4d336770894266c",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Olympus / OM System",
+      "source_type": "research_reference",
+      "title": "Olympus specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:om-system-manual:24683abaa89a6774",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "OM System",
+      "source_type": "research_reference",
+      "title": "OM System manual",
+      "url": "https://learning.omsystem.com/OM-1/zz_pdf/OM-1_ENU_02_FW170.pdf"
+    },
+    {
+      "accessed": null,
+      "id": "source:om-system-manual:53a7e103e1603603",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "OM System",
+      "source_type": "research_reference",
+      "title": "OM System manual",
+      "url": "https://learning.omsystem.com/OM-1MarkII/zz_html_manual/en/specifications_319.html"
+    },
+    {
+      "accessed": null,
+      "id": "source:om-system-specifications:83d0824fc8c1c104",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Olympus / OM System",
+      "source_type": "research_reference",
+      "title": "OM System specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:panasonic-specifications:28ce7c848e43981a",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Panasonic",
+      "source_type": "research_reference",
+      "title": "Panasonic specifications",
+      "url": "https://help.na.panasonic.com/answers/specifications-sheet-lumix-s-series-dc-s5m2/"
+    },
+    {
+      "accessed": null,
+      "id": "source:panasonic-specifications:436e59ab3a66a4f2",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Panasonic",
+      "source_type": "research_reference",
+      "title": "Panasonic specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:pentax-specifications:07a159b31017ff76",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Pentax",
+      "source_type": "research_reference",
+      "title": "Pentax specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena-compiled:96420894ce8941de",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "PhoneArena/compiled",
+      "url": "https://www.phonearena.com/phones/compare/Samsung-Galaxy-S25%2CSamsung-Galaxy-S25-Ultra/phones/12340%2C12343"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena-compiled:e3262dc3ff97ab9a",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "PhoneArena/compiled",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena-google:13e4527c053adff8",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "PhoneArena / Google",
+      "url": "https://www.phonearena.com/phones/Google-Pixel-7-Pro_id11907"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena-type-1-2-55-reference:d12b3caa124b8993",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "PhoneArena / Type 1/2.55 reference",
+      "url": "https://www.phonearena.com/phones/Apple-iPhone-XR_id10765"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:0a39e7151262f169",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Apple-iPhone-12-Pro_id11294"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:0ebe9d17ca27d3da",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://origin.phonearena.com/phones/Samsung-Galaxy-S22-Ultra_id11761"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:120fcba207dcb279",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Samsung-Galaxy-S23-Ultra_id12002"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:4408535abb369192",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Apple-iPhone-11_id11175"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:5efcc95d89ce51ce",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Motorola",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Motorola-Edge-2025_id12738"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:77c8e185c9756cd4",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Samsung-Galaxy-A16-5G_id12426"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:79532a77b7bee95d",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://origin.phonearena.com/phones/Apple-iPhone-16_id12240"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:803c9fc90caf08a7",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Apple-iPhone-SE-2020_id10750"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:808dd519742610f7",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Apple-iPhone-Air_id12559"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:88cb24f3d82bc195",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Google-Pixel-10-Pro_id12652"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:957d814dfbaebab0",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://origin.phonearena.com/phones/Apple-iPhone-17-Pro_id12495"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:a039e34621a181d6",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Google-Pixel-8a_id12219"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:a6755354d993534a",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://origin.phonearena.com/phones/Samsung-Galaxy-S24-Ultra_id12115"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:b58b028801fa8e22",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Google-Pixel-7-Pro_id11907"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:ba68117c213941ea",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Motorola",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Motorola-Moto-G-Stylus-5G-2025_id12684"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:c690d89c5e8260e8",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Apple-iPhone-11-Pro_id11239"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:c6c9c62dfb532b6d",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Samsung-Galaxy-S20-Ultra-5G_id11288"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:c75fc70acf2342bd",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Samsung-Galaxy-A25-5G_id12266"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:d6b7a2d1ae53a8cc",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Samsung-Galaxy-S25-Ultra_id12343"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:de68473718e9b6b8",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Google-Pixel-9-Pro_id12285"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:e9281f786eaf76f3",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Samsung",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Samsung-Galaxy-S21-Ultra_id11510"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:ec08b8b90679c2b4",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Apple",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/compare/Apple-iPhone-12-Pro%2CApple-iPhone-17/phones/11294%2C12493"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:ef01b785b942c636",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Google-Pixel-8-Pro_id12144"
+    },
+    {
+      "accessed": null,
+      "id": "source:phonearena:f15ed491a5cf41ad",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Google",
+      "source_type": "research_reference",
+      "title": "PhoneArena",
+      "url": "https://www.phonearena.com/phones/Google-Pixel-8_id12143"
+    },
+    {
+      "accessed": null,
+      "id": "source:red-dsmc2-dragon-6k-technical-specifications:1637d67d6b2cfec1",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "RED",
+      "source_type": "research_reference",
+      "title": "RED DSMC2 DRAGON 6K Technical Specifications",
+      "url": "https://docs.red.com/955-0176/DSMC2DRAGONOperationGuide/en-us/Content/A_TechSpecs/Specs_WEAPON_6K_CF.htm"
+    },
+    {
+      "accessed": null,
+      "id": "source:red-dsmc2-gemini-5k-s35-technical-specifications:5c260021a0ff7d64",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "RED",
+      "source_type": "research_reference",
+      "title": "RED DSMC2 GEMINI 5K S35 Technical Specifications",
+      "url": "https://docs.red.com/955-0172_v7.0/DSMC2GEMINIOperationGuide/Content/A_TechSpecs/Specs_DSMC2_GEMINI.htm"
+    },
+    {
+      "accessed": null,
+      "id": "source:red-dsmc2-helium-8k-s35-technical-specifications:707606066dc51556",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "RED",
+      "source_type": "research_reference",
+      "title": "RED DSMC2 HELIUM 8K S35 Technical Specifications",
+      "url": "https://docs.red.com/955-0171_v7.0/DSMC2HELIUMOperationGuide/Content/A_TechSpecs/Specs_DSMC2_HELIUM.htm"
+    },
+    {
+      "accessed": null,
+      "id": "source:red-dsmc2-monstro-8k-vv-technical-specifications:72473dbc3f28841a",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "RED",
+      "source_type": "research_reference",
+      "title": "RED DSMC2 MONSTRO 8K VV Technical Specifications",
+      "url": "https://docs.red.com/955-0170/DSMC2MONSTROOperationGuide/en-us/Content/A_TechSpecs/Specs_DSMC2_MONSTRO_Mono.htm"
+    },
+    {
+      "accessed": null,
+      "id": "source:ricoh-1-inch-sensor-specification:bec07ee39f3769f3",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Ricoh",
+      "source_type": "research_reference",
+      "title": "Ricoh 1-inch sensor specification",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:sigma-specifications:080dfd05ae8e3236",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sigma",
+      "source_type": "research_reference",
+      "title": "Sigma specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:sigma-specifications:d0d5739e579036a4",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sigma",
+      "source_type": "research_reference",
+      "title": "Sigma specifications",
+      "url": "https://www.sigma-global.com/en/cameras/fp/"
+    },
+    {
+      "accessed": null,
+      "id": "source:sony-official-specifications:b4648b8d00349889",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Sony official specifications",
+      "url": "https://www.sony.com/electronics/support/mobile-phones-tablets-mobile-phones/xperia-1-v/specifications"
+    },
+    {
+      "accessed": null,
+      "id": "source:sony-official-specifications:e5cdcc7ce84e9b08",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Sony official specifications",
+      "url": "https://www.sony.com/electronics/support/mobile-phones-tablets-mobile-phones/xperia-1-vi/specifications"
+    },
+    {
+      "accessed": null,
+      "id": "source:sony-specifications:87f4ccb73926fbcc",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Sony specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:sony-specifications:8ced06b2ff3896df",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Sony specifications",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm5/specifications"
+    },
+    {
+      "accessed": null,
+      "id": "source:sony-specifications:8fd455226c6ba6d1",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Sony specifications",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7/specifications"
+    },
+    {
+      "accessed": null,
+      "id": "source:sony-specifications:b5bab5458403a30f",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Sony specifications",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications"
+    },
+    {
+      "accessed": null,
+      "id": "source:sony-specifications:c16d1927ef25a680",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Sony specifications",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m2/specifications"
+    },
+    {
+      "accessed": null,
+      "id": "source:sony-specifications:cf7d0fa1833e81da",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Sony specifications",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm4/specifications"
+    },
+    {
+      "accessed": null,
+      "id": "source:sony-specifications:d2c0efb2e3d8dd7a",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Sony specifications",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-1-series/ilce-1/specifications"
+    },
+    {
+      "accessed": null,
+      "id": "source:sony-specifications:e771e3f311cf110f",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Sony",
+      "source_type": "research_reference",
+      "title": "Sony specifications",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6700/specifications"
+    },
+    {
+      "accessed": null,
+      "id": "source:vision-research-technical-specifications:fbb47520f5871851",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Phantom",
+      "source_type": "research_reference",
+      "title": "Vision Research technical specifications",
+      "url": null
+    },
+    {
+      "accessed": null,
+      "id": "source:xiaomi-official-launch-specifications:d18167f82714ebea",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Xiaomi",
+      "source_type": "research_reference",
+      "title": "Xiaomi official launch/specifications",
+      "url": "https://www.mi.com/global/event/2025/xiaomi-launch-february-2025/"
+    },
+    {
+      "accessed": null,
+      "id": "source:xiaomi-official-specifications:ae1fdc9210d46d66",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Xiaomi",
+      "source_type": "research_reference",
+      "title": "Xiaomi official specifications",
+      "url": "https://www.mi.com/global/redmi-note-13-pro-plus-5g/specs/"
+    },
+    {
+      "accessed": null,
+      "id": "source:xiaomi-official-specifications:cceb01642cf91af3",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Xiaomi",
+      "source_type": "research_reference",
+      "title": "Xiaomi official specifications",
+      "url": "https://www.mi.com/global/xiaomi-14-ultra/specs/"
+    },
+    {
+      "accessed": null,
+      "id": "source:z-cam-specifications:0cd0b41ae1b6c389",
+      "notes": "Source metadata preserved from the research pass.",
+      "publisher": "Z CAM",
+      "source_type": "research_reference",
+      "title": "Z CAM specifications",
+      "url": null
+    }
+  ]
+}

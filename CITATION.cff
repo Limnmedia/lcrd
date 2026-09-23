@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use LCRD, please cite the repository and the specific dataset release."
+title: "LCRD — LIMN Camera Reference Database"
+abstract: "A provenance-aware, machine-readable reference database for cameras, imaging devices, physical camera modules, sensors, lenses, and observed camera metadata."
+type: dataset
+repository-code: "https://github.com/Limnmedia/lcrd"
+url: "https://github.com/Limnmedia/lcrd"
+license: "NOASSERTION"

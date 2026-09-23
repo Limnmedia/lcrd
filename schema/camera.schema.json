@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Limnmedia/lcrd/schema/camera.schema.json",
+  "title": "LCRD camera",
+  "type": "object",
+  "required": ["id", "manufacturer", "name", "sensor_id"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^camera:[a-z0-9-]+:[a-z0-9-]+$"},
+    "manufacturer": {"type": "string", "minLength": 1},
+    "name": {"type": "string", "minLength": 1},
+    "device_model": {"type": ["string", "null"]},
+    "variant": {"type": ["string", "null"]},
+    "module_role": {"type": ["string", "null"]},
+    "aliases": {"type": "array", "items": {"type": "string"}},
+    "manufacturer_identifiers": {"type": "array", "items": {"type": "string"}},
+    "sensor_id": {"type": ["string", "null"]},
+    "status": {"type": "string"}
+  },
+  "additionalProperties": true
+}

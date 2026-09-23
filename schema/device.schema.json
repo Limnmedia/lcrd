@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Limnmedia/lcrd/schema/device.schema.json",
+  "title": "LCRD imaging device",
+  "type": "object",
+  "required": ["id", "manufacturer", "name", "camera_module_ids"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^device:[a-z0-9-]+:[a-z0-9-]+$"},
+    "manufacturer": {"type": "string", "minLength": 1},
+    "name": {"type": "string", "minLength": 1},
+    "device_model": {"type": "string", "minLength": 1},
+    "camera_module_ids": {"type": "array", "items": {"type": "string"}},
+    "status": {"type": "string"}
+  },
+  "additionalProperties": true
+}

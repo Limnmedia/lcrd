@@ -1,0 +1,244 @@
+id,manufacturer,model,aliases,dragonframe_supported,sensor_width_mm,sensor_height_mm,dimension_status,provenance_method,confidence,verification_status,source_note,source_url,coverage_class
+canon_eos_c50,Canon,EOS C50,,True,35.9,23.9,complete,published,confirmed,primary_source_verified,Canon EOS C50 specifications,https://www.usa.canon.com/support/p/eos-c50,physical_camera
+canon_eos_r1,Canon,EOS R1,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_r,Canon,EOS R,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_rp,Canon,EOS RP,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_r3,Canon,EOS R3,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_r5,Canon,EOS R5,,True,36.0,24.0,complete,published,confirmed,primary_source_verified_previous_pass,Canon specifications,,physical_camera
+canon_eos_r5_mark_ii,Canon,EOS R5 Mark II,,True,36.0,24.0,complete,published,confirmed,primary_source_verified_previous_pass,Canon specifications,,physical_camera
+canon_eos_r5_c,Canon,EOS R5 C,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_r6,Canon,EOS R6,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_r6_mark_ii,Canon,EOS R6 Mark II,,True,35.9,23.9,complete,published,confirmed,primary_source_verified_previous_pass,Canon specifications,,physical_camera
+canon_eos_r6_mark_iii,Canon,EOS R6 Mark III,,True,35.9,23.9,complete,published,confirmed,primary_source_verified,Canon specifications,https://www.usa.canon.com/support/p/eos-r6-mark-iii,physical_camera
+canon_eos_r6_mark_v,Canon,EOS R6 Mark V,,True,,,model_identity_unresolved,unresolved,unresolved,not_single_resolvable_sensor,Could not resolve this as a Canon camera model; verify Dragonframe row/normalization.,,physical_camera
+canon_eos_r7,Canon,EOS R7,,True,22.3,14.8,complete,published,confirmed,primary_source_verified_previous_pass,Canon specifications,,physical_camera
+canon_eos_r8,Canon,EOS R8,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_r10,Canon,EOS R10,,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_r50,Canon,EOS R50,,True,22.3,14.9,complete,published,confirmed,primary_source_verified,Canon specifications,https://www.usa.canon.com/support/p/eos-r50,physical_camera
+canon_eos_r50_v,Canon,EOS R50 V,,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_r100,Canon,EOS R100,,True,22.3,14.9,complete,published,confirmed,primary_source_verified,Canon specifications,https://www.usa.canon.com/support/p/eos-r100,physical_camera
+canon_eos_1d_mark_iii,Canon,EOS 1D Mark III,,True,28.1,18.7,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_1ds_mark_iii,Canon,EOS 1Ds Mark III,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_1d_mark_iv,Canon,EOS 1D Mark IV,,True,27.9,18.6,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_1d_x,Canon,EOS 1D X,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_1d_x_mark_ii,Canon,EOS 1D X Mark II,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_1d_x_mark_iii,Canon,EOS 1D X Mark III,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_1d_c,Canon,EOS 1D C,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_5d_mark_ii,Canon,EOS 5D Mark II,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_5d_mark_iii,Canon,EOS 5D Mark III,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_5d_mark_iv,Canon,EOS 5D Mark IV,,True,36.0,24.0,complete,published,confirmed,primary_source_verified_previous_pass,Canon specifications,,physical_camera
+canon_eos_5ds,Canon,EOS 5Ds,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_5ds_r,Canon,EOS 5Ds R,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_6d,Canon,EOS 6D,,True,35.8,23.9,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_6d_mark_ii,Canon,EOS 6D Mark II,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_7d,Canon,EOS 7D,,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_7d_mark_ii,Canon,EOS 7D Mark II,,True,22.4,15.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_40d,Canon,EOS 40D,,True,22.2,14.8,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_50d,Canon,EOS 50D,,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_60d,Canon,EOS 60D,,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_60da,Canon,EOS 60Da,,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_70d,Canon,EOS 70D,,True,22.5,15.0,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_77d,Canon,EOS 77D,,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_80d,Canon,EOS 80D,,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_90d,Canon,EOS 90D,,True,22.3,14.8,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_100d,Canon,EOS 100D,EOS Rebel SL1 | EOS Kiss X7,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_200d,Canon,EOS 200D,EOS Rebel SL2 | EOS Kiss X9,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_250d,Canon,EOS 250D,EOS Rebel SL3 | EOS Kiss X10 | EOS 200D Mark II,True,22.3,14.8,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_450d,Canon,EOS 450D,EOS Rebel XSi | EOS Kiss X2,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_500d,Canon,EOS 500D,EOS Rebel T1i | EOS Kiss X3,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_550d,Canon,EOS 550D,EOS Rebel T2i | EOS Kiss X4,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_600d,Canon,EOS 600D,EOS Rebel T3i | EOS Kiss X5,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_650d,Canon,EOS 650D,EOS Rebel T4i | EOS Kiss X6i,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_700d,Canon,EOS 700D,EOS Rebel T5i | EOS Kiss X7i,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_750d,Canon,EOS 750D,EOS Rebel T6i | EOS Kiss X8i,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_760d,Canon,EOS 760D,EOS Rebel T6s | EOS 8000D,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_800d,Canon,EOS 800D,EOS Rebel T7i | EOS Kiss X9i,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_850d,Canon,EOS 850D,EOS Rebel T8i | EOS Kiss X10i,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_1000d,Canon,EOS 1000D,EOS Rebel XS | EOS Kiss F,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_1100d,Canon,EOS 1100D,EOS Rebel T3 | EOS Kiss X50,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_1200d,Canon,EOS 1200D,EOS Rebel T5 | EOS Kiss X70,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_1300d,Canon,EOS 1300D,EOS Rebel T6 | EOS Kiss X80,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_2000d,Canon,EOS 2000D,EOS 1500D | EOS Rebel T7,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_4000d,Canon,EOS 4000D,EOS 3000D | EOS Rebel T100,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_m6_mark_ii,Canon,EOS M6 Mark II,,True,22.3,14.8,complete,published,confirmed,compiled_spec_value,Canon specifications,,physical_camera
+canon_eos_m50,Canon,EOS M50,EOS Kiss M,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_m50_mark_ii,Canon,EOS M50 Mark II,EOS Kiss M2,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+canon_eos_m200,Canon,EOS M200,,True,22.3,14.9,complete,published,confirmed,compiled_spec_value,Canon specifications / technical database,,physical_camera
+fujifilm_gfx_50s,Fujifilm,GFX 50S,,True,43.8,32.9,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_gfx_50r,Fujifilm,GFX 50R,,True,43.8,32.9,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_gfx_100,Fujifilm,GFX 100,,True,43.8,32.9,complete,published,confirmed,primary_source_verified_previous_pass,Fujifilm specifications,,physical_camera
+fujifilm_gfx_100_ii,Fujifilm,GFX 100 II,,True,43.8,32.9,complete,published,confirmed,primary_source_verified_previous_pass,Fujifilm specifications,,physical_camera
+fujifilm_gfx_100s,Fujifilm,GFX 100S,,True,43.8,32.9,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_gfx_100s_ii,Fujifilm,GFX 100S II,,True,43.8,32.9,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_m5,Fujifilm,X-M5,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_t1,Fujifilm,X-T1,,True,23.6,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_t2,Fujifilm,X-T2,,True,23.6,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_t3,Fujifilm,X-T3,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_t4,Fujifilm,X-T4,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_t5,Fujifilm,X-T5,,True,23.5,15.6,complete,published,confirmed,primary_source_verified_previous_pass,Fujifilm specifications,,physical_camera
+fujifilm_x_pro2,Fujifilm,X-Pro2,,True,23.6,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_pro3,Fujifilm,X-Pro3,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_h1,Fujifilm,X-H1,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_h2,Fujifilm,X-H2,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_h2s,Fujifilm,X-H2S,,True,23.5,15.6,complete,published,confirmed,primary_source_verified_previous_pass,Fujifilm specifications,,physical_camera
+fujifilm_x_s10,Fujifilm,X-S10,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+fujifilm_x_s20,Fujifilm,X-S20,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Fujifilm specifications,,physical_camera
+insta360_x3,Insta360,X3,,True,6.4,4.8,complete,inferred,provisional,inferred_from_published_sensor_class,1/2-inch sensor class; dimensions inferred from optical format,,physical_camera
+insta360_x4,Insta360,X4,,True,6.4,4.8,complete,inferred,provisional,inferred_from_published_sensor_class,1/2-inch sensor class; dimensions inferred from optical format,,physical_camera
+insta360_x4_air,Insta360,X4 Air,,True,7.18,5.32,complete,inferred,provisional,inferred_from_published_sensor_class,1/1.8-inch sensor class; dimensions inferred from optical format,,physical_camera
+insta360_x5,Insta360,X5,,True,9.96,7.47,complete,inferred,provisional,inferred_from_published_sensor_class,1/1.28-inch sensor class; dimensions inferred from optical format,,physical_camera
+intel_realsense_depth_camera_d415,Intel RealSense,Depth Camera D415,,True,,,multi_sensor_device_requires_stream_definition,unresolved,unresolved,not_single_resolvable_sensor,Device contains separate RGB/depth imagers; no single sensor dimension is valid.,,physical_camera
+intel_realsense_depth_camera_d435,Intel RealSense,Depth Camera D435,,True,,,multi_sensor_device_requires_stream_definition,unresolved,unresolved,not_single_resolvable_sensor,Device contains separate RGB/depth imagers; no single sensor dimension is valid.,,physical_camera
+intel_realsense_depth_camera_d455,Intel RealSense,Depth Camera D455,,True,,,multi_sensor_device_requires_stream_definition,unresolved,unresolved,not_single_resolvable_sensor,Device contains separate RGB/depth imagers; no single sensor dimension is valid.,,physical_camera
+leica_sl,Leica,SL,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Leica specifications,,physical_camera
+leica_sl2,Leica,SL2,,True,36.0,24.0,complete,published,confirmed,compiled_spec_value,Leica specifications,,physical_camera
+leica_sl2_s,Leica,SL2-S,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Leica specifications,,physical_camera
+nikon_z5,Nikon,Z5,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z5_ii,Nikon,Z5 II,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z6,Nikon,Z6,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z6_ii,Nikon,Z6 II,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z6_iii,Nikon,Z6 III,,True,35.9,23.9,complete,published,confirmed,primary_source_verified_previous_pass,Nikon specifications,,physical_camera
+nikon_z7,Nikon,Z7,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z7_ii,Nikon,Z7 II,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z_fc,Nikon,Z fc,,True,23.5,15.7,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z_f,Nikon,Z f,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z8,Nikon,Z8,,True,35.9,23.9,complete,published,confirmed,primary_source_verified_previous_pass,Nikon specifications,,physical_camera
+nikon_z9,Nikon,Z9,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z30,Nikon,Z30,,True,23.5,15.7,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z50,Nikon,Z50,,True,23.5,15.7,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_z50_ii,Nikon,Z50 II,,True,23.5,15.7,complete,published,confirmed,primary_source_verified_previous_pass,Nikon specifications,,physical_camera
+nikon_zr,Nikon,ZR,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d2x,Nikon,D2X,,True,23.7,15.7,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d3,Nikon,D3,,True,36.0,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d3s,Nikon,D3S,,True,36.0,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d3x,Nikon,D3X,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d4,Nikon,D4,,True,36.0,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d4s,Nikon,D4S,,True,36.0,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d5,Nikon,D5,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d40,Nikon,D40,,True,23.7,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d40x,Nikon,D40X,,True,23.6,15.8,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d50,Nikon,D50,,True,23.7,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d60,Nikon,D60,,True,23.6,15.8,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d70,Nikon,D70,,True,23.7,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d70s,Nikon,D70s,,True,23.7,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d80,Nikon,D80,,True,23.6,15.8,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d90,Nikon,D90,,True,23.6,15.8,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d100,Nikon,D100,,True,23.7,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d200,Nikon,D200,,True,23.6,15.8,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d300,Nikon,D300,,True,23.6,15.8,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d300s,Nikon,D300S,,True,23.6,15.8,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d500,Nikon,D500,,True,23.5,15.7,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d600,Nikon,D600,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d610,Nikon,D610,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d700,Nikon,D700,,True,36.0,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d750,Nikon,D750,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d780,Nikon,D780,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d800,Nikon,D800,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d800e,Nikon,D800e,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d810,Nikon,D810,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d850,Nikon,D850,,True,35.9,23.9,complete,published,confirmed,primary_source_verified,Nikon specifications,https://www.nikonusa.com/p/d850/1585/overview,physical_camera
+nikon_d3200,Nikon,D3200,,True,23.2,15.4,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d3300,Nikon,D3300,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d3400,Nikon,D3400,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d3500,Nikon,D3500,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d5000,Nikon,D5000,,True,23.6,15.8,complete,published,confirmed,compiled_spec_value,Nikon specifications / technical database,,physical_camera
+nikon_d5100,Nikon,D5100,,True,23.6,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d5200,Nikon,D5200,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d5300,Nikon,D5300,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d5500,Nikon,D5500,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d5600,Nikon,D5600,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d7000,Nikon,D7000,,True,23.6,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d7100,Nikon,D7100,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d7200,Nikon,D7200,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+nikon_d7500,Nikon,D7500,,True,23.5,15.6,complete,published,confirmed,primary_source_verified,Nikon specifications,https://www.nikonusa.com/p/d7500/1582/overview,physical_camera
+nikon_df,Nikon,Df,,True,36.0,23.9,complete,published,confirmed,compiled_spec_value,Nikon specifications,,physical_camera
+olympus_om_system_om_1,Olympus / OM System,OM-1,,True,17.4,13.0,complete,published,confirmed,primary_source_verified_previous_pass,OM System specifications,,physical_camera
+olympus_om_system_om_1_mark_ii,Olympus / OM System,OM-1 Mark II,,True,17.4,13.0,complete,published,confirmed,primary_source_verified_previous_pass,OM System specifications,,physical_camera
+olympus_om_system_om_d_e_m1,Olympus / OM System,OM-D E-M1,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Olympus specifications,,physical_camera
+olympus_om_system_om_d_e_m1_mark_ii,Olympus / OM System,OM-D E-M1 Mark II,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Olympus specifications,,physical_camera
+olympus_om_system_om_d_e_m1_mark_iii,Olympus / OM System,OM-D E-M1 Mark III,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Olympus specifications,,physical_camera
+olympus_om_system_om_d_e_m1x,Olympus / OM System,OM-D E-M1X,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Olympus specifications,,physical_camera
+olympus_om_system_om_d_e_m5_mark_ii,Olympus / OM System,OM-D E-M5 Mark II,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Olympus specifications,,physical_camera
+panasonic_lumix_dmc_gh4,Panasonic,Lumix DMC-GH4,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dmc_gx8,Panasonic,Lumix DMC-GX8,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_s1,Panasonic,Lumix DC-S1,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_s1r,Panasonic,Lumix DC-S1R,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_s1h,Panasonic,Lumix DC-S1H,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_s5,Panasonic,Lumix DC-S5,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_s5m2,Panasonic,Lumix DC-S5M2,,True,35.6,23.8,complete,published,confirmed,primary_source_verified_previous_pass,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_s5m2x,Panasonic,Lumix DC-S5M2X,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_s9,Panasonic,Lumix DC-S9,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_gh5,Panasonic,Lumix DC-GH5,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_gh5s,Panasonic,Lumix DC-GH5S,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_gh5m2,Panasonic,Lumix DC-GH5M2,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_gh6,Panasonic,Lumix DC-GH6,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_gh7,Panasonic,Lumix DC-GH7,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_g9,Panasonic,Lumix DC-G9,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+panasonic_lumix_dc_g9_ii,Panasonic,Lumix DC-G9 II,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Panasonic specifications,,physical_camera
+pentax_kp,Pentax,KP,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Pentax specifications,,physical_camera
+pentax_k_1,Pentax,K-1,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Pentax specifications,,physical_camera
+pentax_k_1_mark_ii,Pentax,K-1 Mark II,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Pentax specifications,,physical_camera
+pentax_645z,Pentax,645Z,,True,43.8,32.8,complete,published,confirmed,compiled_spec_value,Pentax specifications,,physical_camera
+phantom_flex_4k,Phantom,Flex 4K,,True,27.6,15.5,complete,published,confirmed,compiled_spec_value,Vision Research technical specifications,,physical_camera
+ricoh_theta_x,Ricoh,Theta X,,True,6.4,4.8,complete,inferred,provisional,inferred_from_published_sensor_class,1/2-inch sensor class; physical dimensions inferred,,physical_camera
+ricoh_theta_z1,Ricoh,Theta Z1,,True,13.2,8.8,complete,published,confirmed,compiled_spec_value,Ricoh 1-inch sensor specification,,physical_camera
+sigma_fp,Sigma,fp,,True,35.9,23.9,complete,published,confirmed,primary_source_verified,Sigma specifications,https://www.sigma-global.com/en/cameras/fp/,physical_camera
+sigma_fp_l,Sigma,fp L,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Sigma specifications,,physical_camera
+sony_alpha_a1,Sony,Alpha A1,,True,35.9,24.0,complete,published,confirmed,primary_source_verified,Sony specifications,https://www.sony.com/electronics/support/e-mount-body-ilce-1-series/ilce-1/specifications,physical_camera
+sony_fx2,Sony,FX2,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_fx3,Sony,FX3,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_fx3a,Sony,FX3A,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_fx30,Sony,FX30,,True,23.3,15.5,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a9,Sony,Alpha A9,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a9_ii,Sony,Alpha A9 II,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a9_iii,Sony,Alpha A9 III,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7,Sony,Alpha A7,,True,35.8,23.9,complete,published,confirmed,primary_source_verified,Sony specifications,https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7/specifications,physical_camera
+sony_alpha_a7_ii,Sony,Alpha A7 II,,True,35.8,23.9,complete,published,confirmed,primary_source_verified,Sony specifications,https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m2/specifications,physical_camera
+sony_alpha_a7_iii,Sony,Alpha A7 III,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7_iv,Sony,Alpha A7 IV,,True,35.9,23.9,complete,published,confirmed,primary_source_verified_previous_pass,Sony specifications,https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications,physical_camera
+sony_alpha_a7_v,Sony,Alpha A7 V,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7r,Sony,Alpha A7R,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7r_ii,Sony,Alpha A7R II,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7r_iii,Sony,Alpha A7R III,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7r_iiia,Sony,Alpha A7R IIIA,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7r_iv,Sony,Alpha A7R IV,,True,35.7,23.8,complete,published,confirmed,primary_source_verified_previous_pass,Sony specifications,,physical_camera
+sony_alpha_a7r_iva,Sony,Alpha A7R IVA,,True,35.7,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7r_v,Sony,Alpha A7R V,,True,35.7,23.8,complete,published,confirmed,primary_source_verified_previous_pass,Sony specifications,,physical_camera
+sony_alpha_a7s,Sony,Alpha A7S,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7s_ii,Sony,Alpha A7S II,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7s_iii,Sony,Alpha A7S III,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7c,Sony,Alpha A7C,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7c_ii,Sony,Alpha A7C II,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a7cr,Sony,Alpha A7CR,,True,35.7,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a77_ii,Sony,Alpha A77 II,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a99_ii,Sony,Alpha A99 II,,True,35.9,24.0,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a5000,Sony,Alpha A5000,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a5100,Sony,Alpha A5100,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a6000,Sony,Alpha A6000,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a6100,Sony,Alpha A6100,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a6300,Sony,Alpha A6300,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a6400,Sony,Alpha A6400,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a6500,Sony,Alpha A6500,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a6600,Sony,Alpha A6600,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_alpha_a6700,Sony,Alpha A6700,,True,23.3,15.5,complete,published,confirmed,primary_source_verified_previous_pass,Sony specifications,https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6700/specifications,physical_camera
+sony_ilx_lr1,Sony,ILX-LR1,,True,35.9,23.9,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_zv_e1,Sony,ZV-E1,,True,35.6,23.8,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_zv_e10,Sony,ZV-E10,,True,23.5,15.6,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+sony_zv_e10_ii,Sony,ZV-E10 II,,True,23.3,15.5,complete,published,confirmed,compiled_spec_value,Sony specifications,,physical_camera
+z_cam_e2,Z CAM,E2,,True,17.3,13.0,complete,published,confirmed,compiled_spec_value,Z CAM specifications,,physical_camera
+arri_alexa_mini,ARRI,ALEXA Mini,,True,28.17,18.13,complete,published,confirmed,compiled_spec_value,ARRI ALEV III sensor specifications,,physical_camera
+arri_alexa_mini_lf,ARRI,ALEXA Mini LF,,True,36.7,25.54,complete,published,confirmed,primary_source_verified,ARRI ALEV 3 A2X specifications,https://www.arri.com/en/camera-systems/cameras/alexa-mini-lf,physical_camera
+arri_alexa_lf,ARRI,ALEXA LF,,True,36.7,25.54,complete,published,confirmed,compiled_spec_value,ARRI ALEV 3 A2X specifications,,physical_camera
+arri_alexa_35,ARRI,ALEXA 35,,True,27.99,19.22,complete,published,confirmed,compiled_spec_value,ARRI ALEV 4 specifications,,physical_camera
+arri_alexa_35_xtreme,ARRI,ALEXA 35 Xtreme,,True,27.99,19.22,complete,published,confirmed,compiled_spec_value,ARRI ALEV 4 specifications,,physical_camera
+arri_sxt,ARRI,SXT,,True,28.17,18.13,complete,published,confirmed,compiled_spec_value,ARRI ALEV III sensor specifications,,physical_camera
+arri_amira,ARRI,AMIRA,,True,28.17,18.13,complete,published,confirmed,compiled_spec_value,ARRI ALEV III sensor specifications,,physical_camera
+red_dsmc2,RED,DSMC2,,True,,,platform_multiple_sensor_options,unresolved,unresolved,not_single_resolvable_sensor,"DSMC2 is a camera platform; RED offered DRAGON, HELIUM, GEMINI, MONSTRO and other sensor variants.",,physical_camera
+blackmagic_cinema_camera_thunderbolt,Blackmagic,Cinema Camera (Thunderbolt),,True,15.81,8.88,complete,published,confirmed,compiled_spec_value,Blackmagic Cinema Camera 2.5K specifications,,physical_camera
+blackmagic_cinema_camera_6k,Blackmagic,Cinema Camera 6K,,True,36.0,24.0,complete,published,confirmed,primary_source_verified,Blackmagic Design specifications,https://www.blackmagicdesign.com/products/blackmagiccinemacamera/techspecs,physical_camera
+blackmagic_production_camera_4k_thunderbolt,Blackmagic,Production Camera 4K (Thunderbolt),,True,21.12,11.88,complete,published,confirmed,compiled_spec_value,Blackmagic Production Camera 4K specifications,,physical_camera
+logitech_brio,Logitech,BRIO,,True,6.4,4.8,complete,inferred,provisional,inferred_from_published_sensor_class,1/2-inch sensor class; dimensions inferred from optical format,,physical_camera
+logitech_brio_4k,Logitech,BRIO 4K,,True,6.4,4.8,complete,inferred,provisional,inferred_from_published_sensor_class,1/2-inch sensor class; dimensions inferred from optical format,,physical_camera
+logitech_c920,Logitech,C920,,True,4.8,3.6,complete,inferred,provisional,inferred_from_published_sensor_class,1/3-inch sensor class; dimensions inferred from optical format,,physical_camera
+logitech_c922,Logitech,C922,,True,4.8,3.6,complete,inferred,provisional,inferred_from_published_sensor_class,1/3-inch sensor class; dimensions inferred from optical format,,physical_camera
+logitech_c930,Logitech,C930,,True,4.8,3.6,complete,inferred,provisional,inferred_from_published_sensor_class,1/3-inch sensor class; dimensions inferred from optical format,,physical_camera

@@ -1,0 +1,20 @@
+id,manufacturer,model,sensor_width_mm,sensor_height_mm,source_type,confidence,source_title,source_url
+canon_eos_r5,Canon,EOS R5,36.0,24.0,manufacturer,confirmed,Canon manual,https://cam.start.canon/vi/C003/manual/html/UG-09_Reference_0100.html
+canon_eos_r5_mark_ii,Canon,EOS R5 Mark II,36.0,24.0,manufacturer,confirmed,Canon specifications,https://www.usa.canon.com/shop/p/eos-r5-mark-ii
+canon_eos_r6_mark_ii,Canon,EOS R6 Mark II,36.0,24.0,manufacturer,confirmed,Canon specifications,https://www.usa.canon.com/support/p/eos-r6-mark-ii
+canon_eos_5d_mark_iv,Canon,EOS 5D Mark IV,36.0,24.0,manufacturer,confirmed,Canon specifications,https://asia.canon/en/support/6200376100
+canon_eos_r7,Canon,EOS R7,22.3,14.8,manufacturer,confirmed,Canon manual,https://cam.start.canon/en/C005/manual/html/UG-10_Reference_0100.html
+sony_ilce_7m4,Sony,α7 IV / ILCE-7M4,35.9,23.9,manufacturer,confirmed,Sony specifications,https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications
+sony_ilce_7rm5,Sony,α7R V,35.7,23.8,manufacturer,confirmed,Sony specifications,https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm5/specifications
+sony_ilce_7rm4,Sony,α7R IV,35.7,23.8,manufacturer,confirmed,Sony specifications,https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm4/specifications
+sony_ilce_6700,Sony,α6700,23.3,15.5,manufacturer,confirmed,Sony specifications,https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6700/specifications
+nikon_z8,Nikon,Z8,35.9,23.9,manufacturer,confirmed,Nikon specifications,https://www.nikonusa.com/p/z-8/1698/overview
+nikon_z6_iii,Nikon,Z6 III,35.9,23.9,manufacturer,confirmed,Nikon specifications,https://www.nikonusa.com/p/z6iii/1892/overview
+nikon_z50_ii,Nikon,Z50 II,23.5,15.7,manufacturer,confirmed,Nikon specifications,https://www.nikonusa.com/p/z50ii/1784/overview
+panasonic_lumix_s5_ii,Panasonic,Lumix S5 II,35.6,23.8,manufacturer,confirmed,Panasonic specifications,https://help.na.panasonic.com/answers/specifications-sheet-lumix-s-series-dc-s5m2/
+fujifilm_x_t5,Fujifilm,X-T5,23.5,15.7,manufacturer,confirmed,Fujifilm specifications,https://www.fujifilm-x.com/en-us/products/cameras/x-t5/specifications/
+fujifilm_x_h2s,Fujifilm,X-H2S,23.5,15.6,manufacturer,confirmed,Fujifilm specifications,https://www.fujifilm-x.com/en-gb/products/cameras/x-h2s/specifications/
+fujifilm_gfx100_ii,Fujifilm,GFX100 II,43.8,32.9,manufacturer,confirmed,Fujifilm specifications,https://www.fujifilm-x.com/en-gb/products/cameras/gfx100-ii/specifications/
+fujifilm_gfx100,Fujifilm,GFX100,43.8,32.9,manufacturer,confirmed,Fujifilm specifications,https://www.fujifilm-x.com/en-us/products/cameras/gfx100/
+om_system_om_1,OM System,OM-1,17.4,13.0,manufacturer,confirmed,OM System manual,https://learning.omsystem.com/OM-1/zz_pdf/OM-1_ENU_02_FW170.pdf
+om_system_om_1_mark_ii,OM System,OM-1 Mark II,17.4,13.0,manufacturer,confirmed,OM System manual,https://learning.omsystem.com/OM-1MarkII/zz_html_manual/en/specifications_319.html

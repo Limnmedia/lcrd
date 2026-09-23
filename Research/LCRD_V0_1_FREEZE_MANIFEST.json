@@ -1,0 +1,27 @@
+{
+  "dataset": "LCRD",
+  "version": "0.1",
+  "status": "frozen_for_review",
+  "generated_from": "local research snapshot",
+  "encoding": "UTF-8",
+  "record_counts": {
+    "lcrd_camera_reference_v0_1_FREEZE.csv": 656,
+    "lcrd_mobile_apple_iphone_rear_modules_pass_001.csv": 82,
+    "lcrd_mobile_google_pixel_samsung_galaxy_s_pass_002.csv": 100,
+    "lcrd_mobile_xiaomi_sony_nothing_fairphone_asus_pass_004.csv": 114,
+    "lcrd_sensor_dimensions_dragonframe_full_pass_002.csv": 243,
+    "lcrd_sensor_dimensions_pass_001.csv": 19,
+    "lcrd_v0_1_cutoff_and_audit_pass_002.csv": 652
+  },
+  "sha256": {
+    "lcrd_camera_reference_v0_1_FREEZE.csv": "0EA7187DFB66E03CFC1AE6EEA8303A95E9537CF3A13BFD248510BCCFC6E42DD1",
+    "lcrd_mobile_apple_iphone_rear_modules_pass_001.csv": "392719FD2ACF95AE31B12C4EFBA7FB75A456DE50C6FF399B5D91D8FAD9E30A66",
+    "lcrd_mobile_google_pixel_samsung_galaxy_s_pass_002.csv": "54953EBA18AE1A4AA962EB92A5FC3BFA7AD7A1BDEBA20C8BF87F7AB6409CC6B6",
+    "lcrd_mobile_xiaomi_sony_nothing_fairphone_asus_pass_004.csv": "8DB6B760CC247A767BA5126C6572C0BF77E7E9D58F08735B338C617639560CC9",
+    "lcrd_sensor_dimensions_dragonframe_full_pass_002.csv": "3C6A9AE1EC14A99CAB165118592F76D7CC4F55229E330BFCAA6C47DC6232B40E",
+    "lcrd_sensor_dimensions_pass_001.csv": "BB0F632CFE308601A03EAB5DD47FCFB43CEE179D8A78046425E7120E146CE7FD",
+    "lcrd_v0_1_cutoff_and_audit_pass_002.csv": "5E88C62F52D84D6821259DF19C26EC8838042A67DDAF3181876141358B28B793",
+    "LIMNTPS_LCRD_EXIF_CODEX_HANDOFF.md": "A9A27D6113F9CFCB0E13ED9F46700738B1FB7B13C18858F63F6A7C0CEC79D9E9"
+  },
+  "notes": "This manifest describes the local v0.1 research snapshot. It is not a license or a claim that every record is manufacturer-verified."
+}

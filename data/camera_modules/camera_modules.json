@@ -1,0 +1,3685 @@
+{
+  "records": [
+    {
+      "device_id": "device:apple:iphone-11-pro-max",
+      "id": "camera_module:apple:iphone-11-pro-max:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 11 Pro Max rear_main",
+      "sensor_id": "sensor:apple-iphone-11-pro-max-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-11-pro-max",
+      "id": "camera_module:apple:iphone-11-pro-max:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 11 Pro Max rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-11-pro-max-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-11-pro-max",
+      "id": "camera_module:apple:iphone-11-pro-max:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 11 Pro Max rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-11-pro-max-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-11-pro",
+      "id": "camera_module:apple:iphone-11-pro:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 11 Pro rear_main",
+      "sensor_id": "sensor:apple-iphone-11-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-11-pro",
+      "id": "camera_module:apple:iphone-11-pro:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 11 Pro rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-11-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-11-pro",
+      "id": "camera_module:apple:iphone-11-pro:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 11 Pro rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-11-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-11",
+      "id": "camera_module:apple:iphone-11:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 11 rear_main",
+      "sensor_id": "sensor:apple-iphone-11-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-11",
+      "id": "camera_module:apple:iphone-11:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 11 rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-11-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-12-mini",
+      "id": "camera_module:apple:iphone-12-mini:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 12 mini rear_main",
+      "sensor_id": "sensor:apple-iphone-12-mini-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-12-mini",
+      "id": "camera_module:apple:iphone-12-mini:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 12 mini rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-12-mini-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-12-pro-max",
+      "id": "camera_module:apple:iphone-12-pro-max:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 12 Pro Max rear_main",
+      "sensor_id": "sensor:apple-iphone-12-pro-max-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-12-pro-max",
+      "id": "camera_module:apple:iphone-12-pro-max:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 12 Pro Max rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-12-pro-max-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-12-pro-max",
+      "id": "camera_module:apple:iphone-12-pro-max:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 12 Pro Max rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-12-pro-max-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-12-pro",
+      "id": "camera_module:apple:iphone-12-pro:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 12 Pro rear_main",
+      "sensor_id": "sensor:apple-iphone-12-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-12-pro",
+      "id": "camera_module:apple:iphone-12-pro:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 12 Pro rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-12-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-12-pro",
+      "id": "camera_module:apple:iphone-12-pro:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 12 Pro rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-12-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-12",
+      "id": "camera_module:apple:iphone-12:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 12 rear_main",
+      "sensor_id": "sensor:apple-iphone-12-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-12",
+      "id": "camera_module:apple:iphone-12:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 12 rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-12-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-13-mini",
+      "id": "camera_module:apple:iphone-13-mini:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 13 mini rear_main",
+      "sensor_id": "sensor:apple-iphone-13-mini-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-13-mini",
+      "id": "camera_module:apple:iphone-13-mini:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 13 mini rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-13-mini-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-13-pro-max",
+      "id": "camera_module:apple:iphone-13-pro-max:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 13 Pro Max rear_main",
+      "sensor_id": "sensor:apple-iphone-13-pro-max-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-13-pro-max",
+      "id": "camera_module:apple:iphone-13-pro-max:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 13 Pro Max rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-13-pro-max-rear-telephoto",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-13-pro-max",
+      "id": "camera_module:apple:iphone-13-pro-max:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 13 Pro Max rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-13-pro-max-rear-ultrawide",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-13-pro",
+      "id": "camera_module:apple:iphone-13-pro:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 13 Pro rear_main",
+      "sensor_id": "sensor:apple-iphone-13-pro-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-13-pro",
+      "id": "camera_module:apple:iphone-13-pro:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 13 Pro rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-13-pro-rear-telephoto",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-13-pro",
+      "id": "camera_module:apple:iphone-13-pro:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 13 Pro rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-13-pro-rear-ultrawide",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-13",
+      "id": "camera_module:apple:iphone-13:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 13 rear_main",
+      "sensor_id": "sensor:apple-iphone-13-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-13",
+      "id": "camera_module:apple:iphone-13:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 13 rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-13-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-14-plus",
+      "id": "camera_module:apple:iphone-14-plus:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 14 Plus rear_main",
+      "sensor_id": "sensor:apple-iphone-14-plus-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-14-plus",
+      "id": "camera_module:apple:iphone-14-plus:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 14 Plus rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-14-plus-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-14-pro-max",
+      "id": "camera_module:apple:iphone-14-pro-max:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 14 Pro Max rear_main",
+      "sensor_id": "sensor:apple-iphone-14-pro-max-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-14-pro-max",
+      "id": "camera_module:apple:iphone-14-pro-max:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 14 Pro Max rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-14-pro-max-rear-telephoto",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-14-pro-max",
+      "id": "camera_module:apple:iphone-14-pro-max:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 14 Pro Max rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-14-pro-max-rear-ultrawide",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-14-pro",
+      "id": "camera_module:apple:iphone-14-pro:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 14 Pro rear_main",
+      "sensor_id": "sensor:apple-iphone-14-pro-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-14-pro",
+      "id": "camera_module:apple:iphone-14-pro:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 14 Pro rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-14-pro-rear-telephoto",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-14-pro",
+      "id": "camera_module:apple:iphone-14-pro:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 14 Pro rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-14-pro-rear-ultrawide",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-14",
+      "id": "camera_module:apple:iphone-14:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 14 rear_main",
+      "sensor_id": "sensor:apple-iphone-14-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-14",
+      "id": "camera_module:apple:iphone-14:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 14 rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-14-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-15-plus",
+      "id": "camera_module:apple:iphone-15-plus:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 15 Plus rear_main",
+      "sensor_id": "sensor:apple-iphone-15-plus-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-15-plus",
+      "id": "camera_module:apple:iphone-15-plus:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 15 Plus rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-15-plus-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-15-pro-max",
+      "id": "camera_module:apple:iphone-15-pro-max:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 15 Pro Max rear_main",
+      "sensor_id": "sensor:apple-iphone-15-pro-max-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-15-pro-max",
+      "id": "camera_module:apple:iphone-15-pro-max:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 15 Pro Max rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-15-pro-max-rear-telephoto",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-15-pro-max",
+      "id": "camera_module:apple:iphone-15-pro-max:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 15 Pro Max rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-15-pro-max-rear-ultrawide",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-15-pro",
+      "id": "camera_module:apple:iphone-15-pro:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 15 Pro rear_main",
+      "sensor_id": "sensor:apple-iphone-15-pro-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-15-pro",
+      "id": "camera_module:apple:iphone-15-pro:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 15 Pro rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-15-pro-rear-telephoto",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-15-pro",
+      "id": "camera_module:apple:iphone-15-pro:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 15 Pro rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-15-pro-rear-ultrawide",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-15",
+      "id": "camera_module:apple:iphone-15:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 15 rear_main",
+      "sensor_id": "sensor:apple-iphone-15-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-15",
+      "id": "camera_module:apple:iphone-15:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 15 rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-15-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-16-plus",
+      "id": "camera_module:apple:iphone-16-plus:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 16 Plus rear_main",
+      "sensor_id": "sensor:apple-iphone-16-plus-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-16-plus",
+      "id": "camera_module:apple:iphone-16-plus:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 16 Plus rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-16-plus-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-16-pro-max",
+      "id": "camera_module:apple:iphone-16-pro-max:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 16 Pro Max rear_main",
+      "sensor_id": "sensor:apple-iphone-16-pro-max-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-16-pro-max",
+      "id": "camera_module:apple:iphone-16-pro-max:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 16 Pro Max rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-16-pro-max-rear-telephoto",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-16-pro-max",
+      "id": "camera_module:apple:iphone-16-pro-max:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 16 Pro Max rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-16-pro-max-rear-ultrawide",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-16-pro",
+      "id": "camera_module:apple:iphone-16-pro:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 16 Pro rear_main",
+      "sensor_id": "sensor:apple-iphone-16-pro-rear-main",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-16-pro",
+      "id": "camera_module:apple:iphone-16-pro:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 16 Pro rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-16-pro-rear-telephoto",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-16-pro",
+      "id": "camera_module:apple:iphone-16-pro:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 16 Pro rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-16-pro-rear-ultrawide",
+      "status": "strong_derived"
+    },
+    {
+      "device_id": "device:apple:iphone-16",
+      "id": "camera_module:apple:iphone-16:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 16 rear_main",
+      "sensor_id": "sensor:apple-iphone-16-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-16",
+      "id": "camera_module:apple:iphone-16:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 16 rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-16-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-16e",
+      "id": "camera_module:apple:iphone-16e:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 16e rear_main",
+      "sensor_id": "sensor:apple-iphone-16e-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-17-pro-max",
+      "id": "camera_module:apple:iphone-17-pro-max:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 17 Pro Max rear_main",
+      "sensor_id": "sensor:apple-iphone-17-pro-max-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-17-pro-max",
+      "id": "camera_module:apple:iphone-17-pro-max:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 17 Pro Max rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-17-pro-max-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-17-pro-max",
+      "id": "camera_module:apple:iphone-17-pro-max:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 17 Pro Max rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-17-pro-max-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-17-pro",
+      "id": "camera_module:apple:iphone-17-pro:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 17 Pro rear_main",
+      "sensor_id": "sensor:apple-iphone-17-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-17-pro",
+      "id": "camera_module:apple:iphone-17-pro:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 17 Pro rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-17-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-17-pro",
+      "id": "camera_module:apple:iphone-17-pro:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 17 Pro rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-17-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-17",
+      "id": "camera_module:apple:iphone-17:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 17 rear_main",
+      "sensor_id": "sensor:apple-iphone-17-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-17",
+      "id": "camera_module:apple:iphone-17:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 17 rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-17-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-17e",
+      "id": "camera_module:apple:iphone-17e:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 17e rear_main",
+      "sensor_id": "sensor:apple-iphone-17e-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-18-pro-max",
+      "id": "camera_module:apple:iphone-18-pro-max:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 18 Pro Max rear_main",
+      "sensor_id": "sensor:apple-iphone-18-pro-max-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-18-pro-max",
+      "id": "camera_module:apple:iphone-18-pro-max:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 18 Pro Max rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-18-pro-max-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-18-pro-max",
+      "id": "camera_module:apple:iphone-18-pro-max:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 18 Pro Max rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-18-pro-max-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-18-pro",
+      "id": "camera_module:apple:iphone-18-pro:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone 18 Pro rear_main",
+      "sensor_id": "sensor:apple-iphone-18-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-18-pro",
+      "id": "camera_module:apple:iphone-18-pro:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone 18 Pro rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-18-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-18-pro",
+      "id": "camera_module:apple:iphone-18-pro:rear-ultrawide",
+      "manufacturer": "Apple",
+      "module_role": "rear_ultrawide",
+      "name": "iPhone 18 Pro rear_ultrawide",
+      "sensor_id": "sensor:apple-iphone-18-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-air",
+      "id": "camera_module:apple:iphone-air:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone Air rear_main",
+      "sensor_id": "sensor:apple-iphone-air-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-se-2nd-generation",
+      "id": "camera_module:apple:iphone-se-2nd-generation:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone SE (2nd generation) rear_main",
+      "sensor_id": "sensor:apple-iphone-se-2nd-generation-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-se-3rd-generation",
+      "id": "camera_module:apple:iphone-se-3rd-generation:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone SE (3rd generation) rear_main",
+      "sensor_id": "sensor:apple-iphone-se-3rd-generation-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-xr",
+      "id": "camera_module:apple:iphone-xr:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone XR rear_main",
+      "sensor_id": "sensor:apple-iphone-xr-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-xs-max",
+      "id": "camera_module:apple:iphone-xs-max:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone XS Max rear_main",
+      "sensor_id": "sensor:apple-iphone-xs-max-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-xs-max",
+      "id": "camera_module:apple:iphone-xs-max:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone XS Max rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-xs-max-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-xs",
+      "id": "camera_module:apple:iphone-xs:rear-main",
+      "manufacturer": "Apple",
+      "module_role": "rear_main",
+      "name": "iPhone XS rear_main",
+      "sensor_id": "sensor:apple-iphone-xs-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:apple:iphone-xs",
+      "id": "camera_module:apple:iphone-xs:rear-telephoto",
+      "manufacturer": "Apple",
+      "module_role": "rear_telephoto",
+      "name": "iPhone XS rear_telephoto",
+      "sensor_id": "sensor:apple-iphone-xs-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:rog-phone-6",
+      "id": "camera_module:asus:rog-phone-6:rear-main",
+      "manufacturer": "ASUS",
+      "module_role": "rear_main",
+      "name": "ROG Phone 6 rear_main",
+      "sensor_id": "sensor:asus-rog-phone-6-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:rog-phone-6",
+      "id": "camera_module:asus:rog-phone-6:rear-ultrawide",
+      "manufacturer": "ASUS",
+      "module_role": "rear_ultrawide",
+      "name": "ROG Phone 6 rear_ultrawide",
+      "sensor_id": "sensor:asus-rog-phone-6-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:rog-phone-7",
+      "id": "camera_module:asus:rog-phone-7:rear-main",
+      "manufacturer": "ASUS",
+      "module_role": "rear_main",
+      "name": "ROG Phone 7 rear_main",
+      "sensor_id": "sensor:asus-rog-phone-7-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:rog-phone-7",
+      "id": "camera_module:asus:rog-phone-7:rear-ultrawide",
+      "manufacturer": "ASUS",
+      "module_role": "rear_ultrawide",
+      "name": "ROG Phone 7 rear_ultrawide",
+      "sensor_id": "sensor:asus-rog-phone-7-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:rog-phone-8",
+      "id": "camera_module:asus:rog-phone-8:rear-main",
+      "manufacturer": "ASUS",
+      "module_role": "rear_main",
+      "name": "ROG Phone 8 rear_main",
+      "sensor_id": "sensor:asus-rog-phone-8-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:rog-phone-8",
+      "id": "camera_module:asus:rog-phone-8:rear-ultrawide",
+      "manufacturer": "ASUS",
+      "module_role": "rear_ultrawide",
+      "name": "ROG Phone 8 rear_ultrawide",
+      "sensor_id": "sensor:asus-rog-phone-8-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:rog-phone-9",
+      "id": "camera_module:asus:rog-phone-9:rear-main",
+      "manufacturer": "ASUS",
+      "module_role": "rear_main",
+      "name": "ROG Phone 9 rear_main",
+      "sensor_id": "sensor:asus-rog-phone-9-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:rog-phone-9",
+      "id": "camera_module:asus:rog-phone-9:rear-ultrawide",
+      "manufacturer": "ASUS",
+      "module_role": "rear_ultrawide",
+      "name": "ROG Phone 9 rear_ultrawide",
+      "sensor_id": "sensor:asus-rog-phone-9-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:zenfone-10",
+      "id": "camera_module:asus:zenfone-10:rear-main",
+      "manufacturer": "ASUS",
+      "module_role": "rear_main",
+      "name": "Zenfone 10 rear_main",
+      "sensor_id": "sensor:asus-zenfone-10-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:zenfone-10",
+      "id": "camera_module:asus:zenfone-10:rear-ultrawide",
+      "manufacturer": "ASUS",
+      "module_role": "rear_ultrawide",
+      "name": "Zenfone 10 rear_ultrawide",
+      "sensor_id": "sensor:asus-zenfone-10-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:zenfone-11-ultra",
+      "id": "camera_module:asus:zenfone-11-ultra:rear-main",
+      "manufacturer": "ASUS",
+      "module_role": "rear_main",
+      "name": "Zenfone 11 Ultra rear_main",
+      "sensor_id": "sensor:asus-zenfone-11-ultra-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:zenfone-11-ultra",
+      "id": "camera_module:asus:zenfone-11-ultra:rear-ultrawide",
+      "manufacturer": "ASUS",
+      "module_role": "rear_ultrawide",
+      "name": "Zenfone 11 Ultra rear_ultrawide",
+      "sensor_id": "sensor:asus-zenfone-11-ultra-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:zenfone-9",
+      "id": "camera_module:asus:zenfone-9:rear-main",
+      "manufacturer": "ASUS",
+      "module_role": "rear_main",
+      "name": "Zenfone 9 rear_main",
+      "sensor_id": "sensor:asus-zenfone-9-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:asus:zenfone-9",
+      "id": "camera_module:asus:zenfone-9:rear-ultrawide",
+      "manufacturer": "ASUS",
+      "module_role": "rear_ultrawide",
+      "name": "Zenfone 9 rear_ultrawide",
+      "sensor_id": "sensor:asus-zenfone-9-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:fairphone:fairphone-3",
+      "id": "camera_module:fairphone:fairphone-3:rear-main",
+      "manufacturer": "Fairphone",
+      "module_role": "rear_main",
+      "name": "Fairphone 3 rear_main",
+      "sensor_id": "sensor:fairphone-fairphone-3-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:fairphone:fairphone-4",
+      "id": "camera_module:fairphone:fairphone-4:rear-main",
+      "manufacturer": "Fairphone",
+      "module_role": "rear_main",
+      "name": "Fairphone 4 rear_main",
+      "sensor_id": "sensor:fairphone-fairphone-4-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:fairphone:fairphone-4",
+      "id": "camera_module:fairphone:fairphone-4:rear-ultrawide",
+      "manufacturer": "Fairphone",
+      "module_role": "rear_ultrawide",
+      "name": "Fairphone 4 rear_ultrawide",
+      "sensor_id": "sensor:fairphone-fairphone-4-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:fairphone:fairphone-5",
+      "id": "camera_module:fairphone:fairphone-5:rear-main",
+      "manufacturer": "Fairphone",
+      "module_role": "rear_main",
+      "name": "Fairphone 5 rear_main",
+      "sensor_id": "sensor:fairphone-fairphone-5-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:fairphone:fairphone-5",
+      "id": "camera_module:fairphone:fairphone-5:rear-ultrawide",
+      "manufacturer": "Fairphone",
+      "module_role": "rear_ultrawide",
+      "name": "Fairphone 5 rear_ultrawide",
+      "sensor_id": "sensor:fairphone-fairphone-5-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:fairphone:fairphone-gen-6",
+      "id": "camera_module:fairphone:fairphone-gen-6:rear-main",
+      "manufacturer": "Fairphone",
+      "module_role": "rear_main",
+      "name": "Fairphone (Gen. 6) rear_main",
+      "sensor_id": "sensor:fairphone-fairphone-gen-6-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:fairphone:fairphone-gen-6",
+      "id": "camera_module:fairphone:fairphone-gen-6:rear-ultrawide",
+      "manufacturer": "Fairphone",
+      "module_role": "rear_ultrawide",
+      "name": "Fairphone (Gen. 6) rear_ultrawide",
+      "sensor_id": "sensor:fairphone-fairphone-gen-6-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-10-pro-xl",
+      "id": "camera_module:google:pixel-10-pro-xl:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 10 Pro XL rear_main",
+      "sensor_id": "sensor:model:samsung-isocell-gnv",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-10-pro-xl",
+      "id": "camera_module:google:pixel-10-pro-xl:rear-telephoto",
+      "manufacturer": "Google",
+      "module_role": "rear_telephoto",
+      "name": "Pixel 10 Pro XL rear_telephoto",
+      "sensor_id": "sensor:model:sony-imx858",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-10-pro-xl",
+      "id": "camera_module:google:pixel-10-pro-xl:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 10 Pro XL rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx858",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-10-pro",
+      "id": "camera_module:google:pixel-10-pro:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 10 Pro rear_main",
+      "sensor_id": "sensor:model:samsung-isocell-gnv",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-10-pro",
+      "id": "camera_module:google:pixel-10-pro:rear-telephoto",
+      "manufacturer": "Google",
+      "module_role": "rear_telephoto",
+      "name": "Pixel 10 Pro rear_telephoto",
+      "sensor_id": "sensor:model:sony-imx858",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-10-pro",
+      "id": "camera_module:google:pixel-10-pro:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 10 Pro rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx858",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-10",
+      "id": "camera_module:google:pixel-10:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 10 rear_main",
+      "sensor_id": "sensor:google-pixel-10-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-10",
+      "id": "camera_module:google:pixel-10:rear-telephoto",
+      "manufacturer": "Google",
+      "module_role": "rear_telephoto",
+      "name": "Pixel 10 rear_telephoto",
+      "sensor_id": "sensor:google-pixel-10-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-10",
+      "id": "camera_module:google:pixel-10:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 10 rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-10-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-6-pro",
+      "id": "camera_module:google:pixel-6-pro:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 6 Pro rear_main",
+      "sensor_id": "sensor:google-pixel-6-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-6-pro",
+      "id": "camera_module:google:pixel-6-pro:rear-telephoto",
+      "manufacturer": "Google",
+      "module_role": "rear_telephoto",
+      "name": "Pixel 6 Pro rear_telephoto",
+      "sensor_id": "sensor:google-pixel-6-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-6-pro",
+      "id": "camera_module:google:pixel-6-pro:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 6 Pro rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-6-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-6",
+      "id": "camera_module:google:pixel-6:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 6 rear_main",
+      "sensor_id": "sensor:google-pixel-6-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-6",
+      "id": "camera_module:google:pixel-6:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 6 rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-6-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-6a",
+      "id": "camera_module:google:pixel-6a:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 6a rear_main",
+      "sensor_id": "sensor:google-pixel-6a-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-6a",
+      "id": "camera_module:google:pixel-6a:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 6a rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-6a-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-7-pro",
+      "id": "camera_module:google:pixel-7-pro:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 7 Pro rear_main",
+      "sensor_id": "sensor:google-pixel-7-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-7-pro",
+      "id": "camera_module:google:pixel-7-pro:rear-telephoto",
+      "manufacturer": "Google",
+      "module_role": "rear_telephoto",
+      "name": "Pixel 7 Pro rear_telephoto",
+      "sensor_id": "sensor:google-pixel-7-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-7-pro",
+      "id": "camera_module:google:pixel-7-pro:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 7 Pro rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-7-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-7",
+      "id": "camera_module:google:pixel-7:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 7 rear_main",
+      "sensor_id": "sensor:google-pixel-7-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-7",
+      "id": "camera_module:google:pixel-7:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 7 rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-7-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-7a",
+      "id": "camera_module:google:pixel-7a:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 7a rear_main",
+      "sensor_id": "sensor:google-pixel-7a-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-7a",
+      "id": "camera_module:google:pixel-7a:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 7a rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-7a-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-8-pro",
+      "id": "camera_module:google:pixel-8-pro:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 8 Pro rear_main",
+      "sensor_id": "sensor:model:samsung-s5kgm5",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-8-pro",
+      "id": "camera_module:google:pixel-8-pro:rear-telephoto",
+      "manufacturer": "Google",
+      "module_role": "rear_telephoto",
+      "name": "Pixel 8 Pro rear_telephoto",
+      "sensor_id": "sensor:model:sony-imx787",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-8-pro",
+      "id": "camera_module:google:pixel-8-pro:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 8 Pro rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-8-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-8",
+      "id": "camera_module:google:pixel-8:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 8 rear_main",
+      "sensor_id": "sensor:google-pixel-8-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-8",
+      "id": "camera_module:google:pixel-8:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 8 rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-8-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-8a",
+      "id": "camera_module:google:pixel-8a:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 8a rear_main",
+      "sensor_id": "sensor:google-pixel-8a-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-8a",
+      "id": "camera_module:google:pixel-8a:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 8a rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-8a-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-9-pro-xl",
+      "id": "camera_module:google:pixel-9-pro-xl:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 9 Pro XL rear_main",
+      "sensor_id": "sensor:model:samsung-isocell-gnk",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-9-pro-xl",
+      "id": "camera_module:google:pixel-9-pro-xl:rear-telephoto",
+      "manufacturer": "Google",
+      "module_role": "rear_telephoto",
+      "name": "Pixel 9 Pro XL rear_telephoto",
+      "sensor_id": "sensor:model:sony-imx858",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-9-pro-xl",
+      "id": "camera_module:google:pixel-9-pro-xl:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 9 Pro XL rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx858",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-9-pro",
+      "id": "camera_module:google:pixel-9-pro:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 9 Pro rear_main",
+      "sensor_id": "sensor:model:samsung-isocell-gnk",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-9-pro",
+      "id": "camera_module:google:pixel-9-pro:rear-telephoto",
+      "manufacturer": "Google",
+      "module_role": "rear_telephoto",
+      "name": "Pixel 9 Pro rear_telephoto",
+      "sensor_id": "sensor:model:sony-imx858",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-9-pro",
+      "id": "camera_module:google:pixel-9-pro:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 9 Pro rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx858",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-9",
+      "id": "camera_module:google:pixel-9:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 9 rear_main",
+      "sensor_id": "sensor:model:samsung-isocell-gnk",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-9",
+      "id": "camera_module:google:pixel-9:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 9 rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx858",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-9a",
+      "id": "camera_module:google:pixel-9a:rear-main",
+      "manufacturer": "Google",
+      "module_role": "rear_main",
+      "name": "Pixel 9a rear_main",
+      "sensor_id": "sensor:google-pixel-9a-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:google:pixel-9a",
+      "id": "camera_module:google:pixel-9a:rear-ultrawide",
+      "manufacturer": "Google",
+      "module_role": "rear_ultrawide",
+      "name": "Pixel 9a rear_ultrawide",
+      "sensor_id": "sensor:google-pixel-9a-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-2025",
+      "id": "camera_module:motorola:moto-g-2025:rear-macro",
+      "manufacturer": "Motorola",
+      "module_role": "rear_macro",
+      "name": "Moto G (2025) rear_macro",
+      "sensor_id": "sensor:motorola-moto-g-2025-rear-macro",
+      "status": "verified"
+    },
+    {
+      "device_id": "device:motorola:moto-g-2025",
+      "id": "camera_module:motorola:moto-g-2025:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Moto G (2025) rear_main",
+      "sensor_id": "sensor:motorola-moto-g-2025-rear-main",
+      "status": "verified"
+    },
+    {
+      "device_id": "device:motorola:moto-g-5g-2023",
+      "id": "camera_module:motorola:moto-g-5g-2023:rear-macro",
+      "manufacturer": "Motorola",
+      "module_role": "rear_macro",
+      "name": "Moto G 5G (2023) rear_macro",
+      "sensor_id": "sensor:motorola-moto-g-5g-2023-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-5g-2023",
+      "id": "camera_module:motorola:moto-g-5g-2023:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Moto G 5G (2023) rear_main",
+      "sensor_id": "sensor:motorola-moto-g-5g-2023-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-5g-2024",
+      "id": "camera_module:motorola:moto-g-5g-2024:rear-macro",
+      "manufacturer": "Motorola",
+      "module_role": "rear_macro",
+      "name": "Moto G 5G (2024) rear_macro",
+      "sensor_id": "sensor:motorola-moto-g-5g-2024-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-5g-2024",
+      "id": "camera_module:motorola:moto-g-5g-2024:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Moto G 5G (2024) rear_main",
+      "sensor_id": "sensor:motorola-moto-g-5g-2024-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-power-2025",
+      "id": "camera_module:motorola:moto-g-power-2025:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Moto G Power (2025) rear_main",
+      "sensor_id": "sensor:motorola-moto-g-power-2025-rear-main",
+      "status": "verified"
+    },
+    {
+      "device_id": "device:motorola:moto-g-power-2025",
+      "id": "camera_module:motorola:moto-g-power-2025:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Moto G Power (2025) rear_ultrawide",
+      "sensor_id": "sensor:motorola-moto-g-power-2025-rear-ultrawide",
+      "status": "verified"
+    },
+    {
+      "device_id": "device:motorola:moto-g-power-5g-2023",
+      "id": "camera_module:motorola:moto-g-power-5g-2023:rear-macro",
+      "manufacturer": "Motorola",
+      "module_role": "rear_macro",
+      "name": "Moto G Power 5G (2023) rear_macro",
+      "sensor_id": "sensor:motorola-moto-g-power-5g-2023-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-power-5g-2023",
+      "id": "camera_module:motorola:moto-g-power-5g-2023:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Moto G Power 5G (2023) rear_main",
+      "sensor_id": "sensor:motorola-moto-g-power-5g-2023-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-power-5g-2023",
+      "id": "camera_module:motorola:moto-g-power-5g-2023:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Moto G Power 5G (2023) rear_ultrawide",
+      "sensor_id": "sensor:motorola-moto-g-power-5g-2023-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-power-5g-2024",
+      "id": "camera_module:motorola:moto-g-power-5g-2024:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Moto G Power 5G (2024) rear_main",
+      "sensor_id": "sensor:motorola-moto-g-power-5g-2024-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-power-5g-2024",
+      "id": "camera_module:motorola:moto-g-power-5g-2024:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Moto G Power 5G (2024) rear_ultrawide",
+      "sensor_id": "sensor:motorola-moto-g-power-5g-2024-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-stylus-5g-2022",
+      "id": "camera_module:motorola:moto-g-stylus-5g-2022:rear-macro",
+      "manufacturer": "Motorola",
+      "module_role": "rear_macro",
+      "name": "Moto G Stylus 5G (2022) rear_macro",
+      "sensor_id": "sensor:motorola-moto-g-stylus-5g-2022-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-stylus-5g-2022",
+      "id": "camera_module:motorola:moto-g-stylus-5g-2022:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Moto G Stylus 5G (2022) rear_main",
+      "sensor_id": "sensor:motorola-moto-g-stylus-5g-2022-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-stylus-5g-2022",
+      "id": "camera_module:motorola:moto-g-stylus-5g-2022:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Moto G Stylus 5G (2022) rear_ultrawide",
+      "sensor_id": "sensor:motorola-moto-g-stylus-5g-2022-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-stylus-5g-2023",
+      "id": "camera_module:motorola:moto-g-stylus-5g-2023:rear-macro",
+      "manufacturer": "Motorola",
+      "module_role": "rear_macro",
+      "name": "Moto G Stylus 5G (2023) rear_macro",
+      "sensor_id": "sensor:motorola-moto-g-stylus-5g-2023-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-stylus-5g-2023",
+      "id": "camera_module:motorola:moto-g-stylus-5g-2023:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Moto G Stylus 5G (2023) rear_main",
+      "sensor_id": "sensor:motorola-moto-g-stylus-5g-2023-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-stylus-5g-2023",
+      "id": "camera_module:motorola:moto-g-stylus-5g-2023:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Moto G Stylus 5G (2023) rear_ultrawide",
+      "sensor_id": "sensor:motorola-moto-g-stylus-5g-2023-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-stylus-5g-2024",
+      "id": "camera_module:motorola:moto-g-stylus-5g-2024:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Moto G Stylus 5G (2024) rear_main",
+      "sensor_id": "sensor:motorola-moto-g-stylus-5g-2024-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-stylus-5g-2024",
+      "id": "camera_module:motorola:moto-g-stylus-5g-2024:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Moto G Stylus 5G (2024) rear_ultrawide",
+      "sensor_id": "sensor:motorola-moto-g-stylus-5g-2024-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-stylus-5g-2025",
+      "id": "camera_module:motorola:moto-g-stylus-5g-2025:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Moto G Stylus 5G (2025) rear_main",
+      "sensor_id": "sensor:motorola-moto-g-stylus-5g-2025-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:moto-g-stylus-5g-2025",
+      "id": "camera_module:motorola:moto-g-stylus-5g-2025:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Moto G Stylus 5G (2025) rear_ultrawide",
+      "sensor_id": "sensor:motorola-moto-g-stylus-5g-2025-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:motorola-edge-2022",
+      "id": "camera_module:motorola:motorola-edge-2022:rear-macro",
+      "manufacturer": "Motorola",
+      "module_role": "rear_macro",
+      "name": "Motorola Edge (2022) rear_macro",
+      "sensor_id": "sensor:motorola-motorola-edge-2022-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:motorola-edge-2022",
+      "id": "camera_module:motorola:motorola-edge-2022:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Motorola Edge (2022) rear_main",
+      "sensor_id": "sensor:motorola-motorola-edge-2022-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:motorola-edge-2022",
+      "id": "camera_module:motorola:motorola-edge-2022:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Motorola Edge (2022) rear_ultrawide",
+      "sensor_id": "sensor:motorola-motorola-edge-2022-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:motorola-edge-2023",
+      "id": "camera_module:motorola:motorola-edge-2023:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Motorola Edge (2023) rear_main",
+      "sensor_id": "sensor:motorola-motorola-edge-2023-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:motorola-edge-2023",
+      "id": "camera_module:motorola:motorola-edge-2023:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Motorola Edge (2023) rear_ultrawide",
+      "sensor_id": "sensor:motorola-motorola-edge-2023-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:motorola-edge-2024",
+      "id": "camera_module:motorola:motorola-edge-2024:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Motorola Edge (2024) rear_main",
+      "sensor_id": "sensor:motorola-motorola-edge-2024-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:motorola-edge-2024",
+      "id": "camera_module:motorola:motorola-edge-2024:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Motorola Edge (2024) rear_ultrawide",
+      "sensor_id": "sensor:motorola-motorola-edge-2024-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:motorola-edge-2025",
+      "id": "camera_module:motorola:motorola-edge-2025:rear-main",
+      "manufacturer": "Motorola",
+      "module_role": "rear_main",
+      "name": "Motorola Edge (2025) rear_main",
+      "sensor_id": "sensor:motorola-motorola-edge-2025-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:motorola:motorola-edge-2025",
+      "id": "camera_module:motorola:motorola-edge-2025:rear-ultrawide",
+      "manufacturer": "Motorola",
+      "module_role": "rear_ultrawide",
+      "name": "Motorola Edge (2025) rear_ultrawide",
+      "sensor_id": "sensor:motorola-motorola-edge-2025-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-1",
+      "id": "camera_module:nothing:phone-1:rear-main",
+      "manufacturer": "Nothing",
+      "module_role": "rear_main",
+      "name": "Phone (1) rear_main",
+      "sensor_id": "sensor:nothing-phone-1-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-1",
+      "id": "camera_module:nothing:phone-1:rear-ultrawide",
+      "manufacturer": "Nothing",
+      "module_role": "rear_ultrawide",
+      "name": "Phone (1) rear_ultrawide",
+      "sensor_id": "sensor:nothing-phone-1-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-2",
+      "id": "camera_module:nothing:phone-2:rear-main",
+      "manufacturer": "Nothing",
+      "module_role": "rear_main",
+      "name": "Phone (2) rear_main",
+      "sensor_id": "sensor:nothing-phone-2-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-2",
+      "id": "camera_module:nothing:phone-2:rear-ultrawide",
+      "manufacturer": "Nothing",
+      "module_role": "rear_ultrawide",
+      "name": "Phone (2) rear_ultrawide",
+      "sensor_id": "sensor:nothing-phone-2-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-2a-plus",
+      "id": "camera_module:nothing:phone-2a-plus:rear-main",
+      "manufacturer": "Nothing",
+      "module_role": "rear_main",
+      "name": "Phone (2a) Plus rear_main",
+      "sensor_id": "sensor:nothing-phone-2a-plus-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-2a-plus",
+      "id": "camera_module:nothing:phone-2a-plus:rear-ultrawide",
+      "manufacturer": "Nothing",
+      "module_role": "rear_ultrawide",
+      "name": "Phone (2a) Plus rear_ultrawide",
+      "sensor_id": "sensor:nothing-phone-2a-plus-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-2a",
+      "id": "camera_module:nothing:phone-2a:rear-main",
+      "manufacturer": "Nothing",
+      "module_role": "rear_main",
+      "name": "Phone (2a) rear_main",
+      "sensor_id": "sensor:nothing-phone-2a-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-2a",
+      "id": "camera_module:nothing:phone-2a:rear-ultrawide",
+      "manufacturer": "Nothing",
+      "module_role": "rear_ultrawide",
+      "name": "Phone (2a) rear_ultrawide",
+      "sensor_id": "sensor:nothing-phone-2a-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-3a-pro",
+      "id": "camera_module:nothing:phone-3a-pro:rear-main",
+      "manufacturer": "Nothing",
+      "module_role": "rear_main",
+      "name": "Phone (3a) Pro rear_main",
+      "sensor_id": "sensor:nothing-phone-3a-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-3a-pro",
+      "id": "camera_module:nothing:phone-3a-pro:rear-telephoto",
+      "manufacturer": "Nothing",
+      "module_role": "rear_telephoto",
+      "name": "Phone (3a) Pro rear_telephoto",
+      "sensor_id": "sensor:nothing-phone-3a-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-3a-pro",
+      "id": "camera_module:nothing:phone-3a-pro:rear-ultrawide",
+      "manufacturer": "Nothing",
+      "module_role": "rear_ultrawide",
+      "name": "Phone (3a) Pro rear_ultrawide",
+      "sensor_id": "sensor:nothing-phone-3a-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-3a",
+      "id": "camera_module:nothing:phone-3a:rear-main",
+      "manufacturer": "Nothing",
+      "module_role": "rear_main",
+      "name": "Phone (3a) rear_main",
+      "sensor_id": "sensor:nothing-phone-3a-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-3a",
+      "id": "camera_module:nothing:phone-3a:rear-telephoto",
+      "manufacturer": "Nothing",
+      "module_role": "rear_telephoto",
+      "name": "Phone (3a) rear_telephoto",
+      "sensor_id": "sensor:nothing-phone-3a-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:nothing:phone-3a",
+      "id": "camera_module:nothing:phone-3a:rear-ultrawide",
+      "manufacturer": "Nothing",
+      "module_role": "rear_ultrawide",
+      "name": "Phone (3a) rear_ultrawide",
+      "sensor_id": "sensor:nothing-phone-3a-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-10-pro",
+      "id": "camera_module:oneplus:oneplus-10-pro:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus 10 Pro rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-10-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-10-pro",
+      "id": "camera_module:oneplus:oneplus-10-pro:rear-telephoto",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_telephoto",
+      "name": "OnePlus 10 Pro rear_telephoto",
+      "sensor_id": "sensor:oneplus-oneplus-10-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-10-pro",
+      "id": "camera_module:oneplus:oneplus-10-pro:rear-ultrawide",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_ultrawide",
+      "name": "OnePlus 10 Pro rear_ultrawide",
+      "sensor_id": "sensor:oneplus-oneplus-10-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-10t",
+      "id": "camera_module:oneplus:oneplus-10t:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus 10T rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-10t-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-10t",
+      "id": "camera_module:oneplus:oneplus-10t:rear-ultrawide",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_ultrawide",
+      "name": "OnePlus 10T rear_ultrawide",
+      "sensor_id": "sensor:oneplus-oneplus-10t-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-11",
+      "id": "camera_module:oneplus:oneplus-11:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus 11 rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-11-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-11",
+      "id": "camera_module:oneplus:oneplus-11:rear-telephoto",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_telephoto",
+      "name": "OnePlus 11 rear_telephoto",
+      "sensor_id": "sensor:oneplus-oneplus-11-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-11",
+      "id": "camera_module:oneplus:oneplus-11:rear-ultrawide",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_ultrawide",
+      "name": "OnePlus 11 rear_ultrawide",
+      "sensor_id": "sensor:oneplus-oneplus-11-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-12",
+      "id": "camera_module:oneplus:oneplus-12:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus 12 rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-12-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-12",
+      "id": "camera_module:oneplus:oneplus-12:rear-telephoto",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_telephoto",
+      "name": "OnePlus 12 rear_telephoto",
+      "sensor_id": "sensor:oneplus-oneplus-12-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-12",
+      "id": "camera_module:oneplus:oneplus-12:rear-ultrawide",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_ultrawide",
+      "name": "OnePlus 12 rear_ultrawide",
+      "sensor_id": "sensor:oneplus-oneplus-12-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-13",
+      "id": "camera_module:oneplus:oneplus-13:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus 13 rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-13-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-13",
+      "id": "camera_module:oneplus:oneplus-13:rear-telephoto",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_telephoto",
+      "name": "OnePlus 13 rear_telephoto",
+      "sensor_id": "sensor:oneplus-oneplus-13-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-13",
+      "id": "camera_module:oneplus:oneplus-13:rear-ultrawide",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_ultrawide",
+      "name": "OnePlus 13 rear_ultrawide",
+      "sensor_id": "sensor:oneplus-oneplus-13-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-13r",
+      "id": "camera_module:oneplus:oneplus-13r:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus 13R rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-13r-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-13r",
+      "id": "camera_module:oneplus:oneplus-13r:rear-telephoto",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_telephoto",
+      "name": "OnePlus 13R rear_telephoto",
+      "sensor_id": "sensor:oneplus-oneplus-13r-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-13r",
+      "id": "camera_module:oneplus:oneplus-13r:rear-ultrawide",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_ultrawide",
+      "name": "OnePlus 13R rear_ultrawide",
+      "sensor_id": "sensor:oneplus-oneplus-13r-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-9-pro",
+      "id": "camera_module:oneplus:oneplus-9-pro:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus 9 Pro rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-9-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-9-pro",
+      "id": "camera_module:oneplus:oneplus-9-pro:rear-telephoto",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_telephoto",
+      "name": "OnePlus 9 Pro rear_telephoto",
+      "sensor_id": "sensor:oneplus-oneplus-9-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-9-pro",
+      "id": "camera_module:oneplus:oneplus-9-pro:rear-ultrawide",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_ultrawide",
+      "name": "OnePlus 9 Pro rear_ultrawide",
+      "sensor_id": "sensor:oneplus-oneplus-9-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-9",
+      "id": "camera_module:oneplus:oneplus-9:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus 9 rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-9-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-9",
+      "id": "camera_module:oneplus:oneplus-9:rear-ultrawide",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_ultrawide",
+      "name": "OnePlus 9 rear_ultrawide",
+      "sensor_id": "sensor:oneplus-oneplus-9-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-nord-n20-5g",
+      "id": "camera_module:oneplus:oneplus-nord-n20-5g:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus Nord N20 5G rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-nord-n20-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-nord-n200-5g",
+      "id": "camera_module:oneplus:oneplus-nord-n200-5g:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus Nord N200 5G rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-nord-n200-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:oneplus:oneplus-nord-n30-5g",
+      "id": "camera_module:oneplus:oneplus-nord-n30-5g:rear-main",
+      "manufacturer": "OnePlus",
+      "module_role": "rear_main",
+      "name": "OnePlus Nord N30 5G rear_main",
+      "sensor_id": "sensor:oneplus-oneplus-nord-n30-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a12",
+      "id": "camera_module:samsung:galaxy-a12:rear-depth",
+      "manufacturer": "Samsung",
+      "module_role": "rear_depth",
+      "name": "Galaxy A12 rear_depth",
+      "sensor_id": "sensor:samsung-galaxy-a12-rear-depth",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a12",
+      "id": "camera_module:samsung:galaxy-a12:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A12 rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a12-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a12",
+      "id": "camera_module:samsung:galaxy-a12:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A12 rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a12-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a12",
+      "id": "camera_module:samsung:galaxy-a12:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A12 rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a12-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a13",
+      "id": "camera_module:samsung:galaxy-a13:rear-depth",
+      "manufacturer": "Samsung",
+      "module_role": "rear_depth",
+      "name": "Galaxy A13 rear_depth",
+      "sensor_id": "sensor:samsung-galaxy-a13-rear-depth",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a13",
+      "id": "camera_module:samsung:galaxy-a13:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A13 rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a13-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a13",
+      "id": "camera_module:samsung:galaxy-a13:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A13 rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a13-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a13",
+      "id": "camera_module:samsung:galaxy-a13:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A13 rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a13-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a14-5g",
+      "id": "camera_module:samsung:galaxy-a14-5g:rear-depth",
+      "manufacturer": "Samsung",
+      "module_role": "rear_depth",
+      "name": "Galaxy A14 5G rear_depth",
+      "sensor_id": "sensor:samsung-galaxy-a14-5g-rear-depth",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a14-5g",
+      "id": "camera_module:samsung:galaxy-a14-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A14 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a14-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a14-5g",
+      "id": "camera_module:samsung:galaxy-a14-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A14 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a14-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a15-5g",
+      "id": "camera_module:samsung:galaxy-a15-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A15 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a15-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a15-5g",
+      "id": "camera_module:samsung:galaxy-a15-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A15 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a15-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a15-5g",
+      "id": "camera_module:samsung:galaxy-a15-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A15 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a15-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a16-5g",
+      "id": "camera_module:samsung:galaxy-a16-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A16 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a16-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a16-5g",
+      "id": "camera_module:samsung:galaxy-a16-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A16 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a16-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a23-5g",
+      "id": "camera_module:samsung:galaxy-a23-5g:rear-depth",
+      "manufacturer": "Samsung",
+      "module_role": "rear_depth",
+      "name": "Galaxy A23 5G rear_depth",
+      "sensor_id": "sensor:samsung-galaxy-a23-5g-rear-depth",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a23-5g",
+      "id": "camera_module:samsung:galaxy-a23-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A23 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a23-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a23-5g",
+      "id": "camera_module:samsung:galaxy-a23-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A23 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a23-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a23-5g",
+      "id": "camera_module:samsung:galaxy-a23-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A23 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a23-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a24",
+      "id": "camera_module:samsung:galaxy-a24:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A24 rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a24-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a24",
+      "id": "camera_module:samsung:galaxy-a24:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A24 rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a24-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a24",
+      "id": "camera_module:samsung:galaxy-a24:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A24 rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a24-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a25-5g",
+      "id": "camera_module:samsung:galaxy-a25-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A25 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a25-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a25-5g",
+      "id": "camera_module:samsung:galaxy-a25-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A25 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a25-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a25-5g",
+      "id": "camera_module:samsung:galaxy-a25-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A25 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a25-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a26-5g",
+      "id": "camera_module:samsung:galaxy-a26-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A26 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a26-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a26-5g",
+      "id": "camera_module:samsung:galaxy-a26-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A26 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a26-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a26-5g",
+      "id": "camera_module:samsung:galaxy-a26-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A26 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a26-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a32-5g",
+      "id": "camera_module:samsung:galaxy-a32-5g:rear-depth",
+      "manufacturer": "Samsung",
+      "module_role": "rear_depth",
+      "name": "Galaxy A32 5G rear_depth",
+      "sensor_id": "sensor:samsung-galaxy-a32-5g-rear-depth",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a32-5g",
+      "id": "camera_module:samsung:galaxy-a32-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A32 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a32-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a32-5g",
+      "id": "camera_module:samsung:galaxy-a32-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A32 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a32-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a32-5g",
+      "id": "camera_module:samsung:galaxy-a32-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A32 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a32-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a33-5g",
+      "id": "camera_module:samsung:galaxy-a33-5g:rear-depth",
+      "manufacturer": "Samsung",
+      "module_role": "rear_depth",
+      "name": "Galaxy A33 5G rear_depth",
+      "sensor_id": "sensor:samsung-galaxy-a33-5g-rear-depth",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a33-5g",
+      "id": "camera_module:samsung:galaxy-a33-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A33 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a33-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a33-5g",
+      "id": "camera_module:samsung:galaxy-a33-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A33 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a33-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a33-5g",
+      "id": "camera_module:samsung:galaxy-a33-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A33 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a33-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a34-5g",
+      "id": "camera_module:samsung:galaxy-a34-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A34 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a34-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a34-5g",
+      "id": "camera_module:samsung:galaxy-a34-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A34 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a34-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a34-5g",
+      "id": "camera_module:samsung:galaxy-a34-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A34 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a34-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a35-5g",
+      "id": "camera_module:samsung:galaxy-a35-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A35 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a35-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a35-5g",
+      "id": "camera_module:samsung:galaxy-a35-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A35 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a35-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a35-5g",
+      "id": "camera_module:samsung:galaxy-a35-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A35 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a35-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a36-5g",
+      "id": "camera_module:samsung:galaxy-a36-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A36 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a36-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a36-5g",
+      "id": "camera_module:samsung:galaxy-a36-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A36 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a36-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a36-5g",
+      "id": "camera_module:samsung:galaxy-a36-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A36 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a36-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a52-5g",
+      "id": "camera_module:samsung:galaxy-a52-5g:rear-depth",
+      "manufacturer": "Samsung",
+      "module_role": "rear_depth",
+      "name": "Galaxy A52 5G rear_depth",
+      "sensor_id": "sensor:samsung-galaxy-a52-5g-rear-depth",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a52-5g",
+      "id": "camera_module:samsung:galaxy-a52-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A52 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a52-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a52-5g",
+      "id": "camera_module:samsung:galaxy-a52-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A52 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a52-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a52-5g",
+      "id": "camera_module:samsung:galaxy-a52-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A52 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a52-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a53-5g",
+      "id": "camera_module:samsung:galaxy-a53-5g:rear-depth",
+      "manufacturer": "Samsung",
+      "module_role": "rear_depth",
+      "name": "Galaxy A53 5G rear_depth",
+      "sensor_id": "sensor:samsung-galaxy-a53-5g-rear-depth",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a53-5g",
+      "id": "camera_module:samsung:galaxy-a53-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A53 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a53-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a53-5g",
+      "id": "camera_module:samsung:galaxy-a53-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A53 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a53-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a53-5g",
+      "id": "camera_module:samsung:galaxy-a53-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A53 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a53-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a54-5g",
+      "id": "camera_module:samsung:galaxy-a54-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A54 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a54-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a54-5g",
+      "id": "camera_module:samsung:galaxy-a54-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A54 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a54-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a54-5g",
+      "id": "camera_module:samsung:galaxy-a54-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A54 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a54-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a55-5g",
+      "id": "camera_module:samsung:galaxy-a55-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A55 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a55-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a55-5g",
+      "id": "camera_module:samsung:galaxy-a55-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A55 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a55-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a55-5g",
+      "id": "camera_module:samsung:galaxy-a55-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A55 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a55-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a56-5g",
+      "id": "camera_module:samsung:galaxy-a56-5g:rear-macro",
+      "manufacturer": "Samsung",
+      "module_role": "rear_macro",
+      "name": "Galaxy A56 5G rear_macro",
+      "sensor_id": "sensor:samsung-galaxy-a56-5g-rear-macro",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a56-5g",
+      "id": "camera_module:samsung:galaxy-a56-5g:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy A56 5G rear_main",
+      "sensor_id": "sensor:samsung-galaxy-a56-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-a56-5g",
+      "id": "camera_module:samsung:galaxy-a56-5g:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy A56 5G rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-a56-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s20-plus",
+      "id": "camera_module:samsung:galaxy-s20-plus:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S20 Plus rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s20-plus-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s20-plus",
+      "id": "camera_module:samsung:galaxy-s20-plus:rear-telephoto",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto",
+      "name": "Galaxy S20 Plus rear_telephoto",
+      "sensor_id": "sensor:samsung-galaxy-s20-plus-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s20-plus",
+      "id": "camera_module:samsung:galaxy-s20-plus:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S20 Plus rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s20-plus-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s20-ultra",
+      "id": "camera_module:samsung:galaxy-s20-ultra:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S20 Ultra rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s20-ultra-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s20-ultra",
+      "id": "camera_module:samsung:galaxy-s20-ultra:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S20 Ultra rear_telephoto_3x",
+      "sensor_id": "sensor:samsung-galaxy-s20-ultra-rear-telephoto-3x",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s20-ultra",
+      "id": "camera_module:samsung:galaxy-s20-ultra:rear-telephoto-long",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_long",
+      "name": "Galaxy S20 Ultra rear_telephoto_long",
+      "sensor_id": "sensor:samsung-galaxy-s20-ultra-rear-telephoto-long",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s20-ultra",
+      "id": "camera_module:samsung:galaxy-s20-ultra:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S20 Ultra rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s20-ultra-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s20",
+      "id": "camera_module:samsung:galaxy-s20:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S20 rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s20-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s20",
+      "id": "camera_module:samsung:galaxy-s20:rear-telephoto",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto",
+      "name": "Galaxy S20 rear_telephoto",
+      "sensor_id": "sensor:samsung-galaxy-s20-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s20",
+      "id": "camera_module:samsung:galaxy-s20:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S20 rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s20-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s21-plus",
+      "id": "camera_module:samsung:galaxy-s21-plus:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S21 Plus rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s21-plus-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s21-plus",
+      "id": "camera_module:samsung:galaxy-s21-plus:rear-telephoto",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto",
+      "name": "Galaxy S21 Plus rear_telephoto",
+      "sensor_id": "sensor:samsung-galaxy-s21-plus-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s21-plus",
+      "id": "camera_module:samsung:galaxy-s21-plus:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S21 Plus rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s21-plus-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s21-ultra",
+      "id": "camera_module:samsung:galaxy-s21-ultra:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S21 Ultra rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s21-ultra-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s21-ultra",
+      "id": "camera_module:samsung:galaxy-s21-ultra:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S21 Ultra rear_telephoto_3x",
+      "sensor_id": "sensor:samsung-galaxy-s21-ultra-rear-telephoto-3x",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s21-ultra",
+      "id": "camera_module:samsung:galaxy-s21-ultra:rear-telephoto-long",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_long",
+      "name": "Galaxy S21 Ultra rear_telephoto_long",
+      "sensor_id": "sensor:samsung-galaxy-s21-ultra-rear-telephoto-long",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s21-ultra",
+      "id": "camera_module:samsung:galaxy-s21-ultra:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S21 Ultra rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s21-ultra-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s21",
+      "id": "camera_module:samsung:galaxy-s21:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S21 rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s21-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s21",
+      "id": "camera_module:samsung:galaxy-s21:rear-telephoto",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto",
+      "name": "Galaxy S21 rear_telephoto",
+      "sensor_id": "sensor:samsung-galaxy-s21-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s21",
+      "id": "camera_module:samsung:galaxy-s21:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S21 rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s21-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s22-plus",
+      "id": "camera_module:samsung:galaxy-s22-plus:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S22 Plus rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s22-plus-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s22-plus",
+      "id": "camera_module:samsung:galaxy-s22-plus:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S22 Plus rear_telephoto_3x",
+      "sensor_id": "sensor:samsung-galaxy-s22-plus-rear-telephoto-3x",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s22-plus",
+      "id": "camera_module:samsung:galaxy-s22-plus:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S22 Plus rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s22-plus-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s22-ultra",
+      "id": "camera_module:samsung:galaxy-s22-ultra:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S22 Ultra rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s22-ultra-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s22-ultra",
+      "id": "camera_module:samsung:galaxy-s22-ultra:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S22 Ultra rear_telephoto_3x",
+      "sensor_id": "sensor:samsung-galaxy-s22-ultra-rear-telephoto-3x",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s22-ultra",
+      "id": "camera_module:samsung:galaxy-s22-ultra:rear-telephoto-long",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_long",
+      "name": "Galaxy S22 Ultra rear_telephoto_long",
+      "sensor_id": "sensor:samsung-galaxy-s22-ultra-rear-telephoto-long",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s22-ultra",
+      "id": "camera_module:samsung:galaxy-s22-ultra:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S22 Ultra rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s22-ultra-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s22",
+      "id": "camera_module:samsung:galaxy-s22:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S22 rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s22-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s22",
+      "id": "camera_module:samsung:galaxy-s22:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S22 rear_telephoto_3x",
+      "sensor_id": "sensor:samsung-galaxy-s22-rear-telephoto-3x",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s22",
+      "id": "camera_module:samsung:galaxy-s22:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S22 rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s22-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s23-plus",
+      "id": "camera_module:samsung:galaxy-s23-plus:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S23 Plus rear_main",
+      "sensor_id": "sensor:model:samsung-gn3",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s23-plus",
+      "id": "camera_module:samsung:galaxy-s23-plus:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S23 Plus rear_telephoto_3x",
+      "sensor_id": "sensor:model:samsung-s5k3k1",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s23-plus",
+      "id": "camera_module:samsung:galaxy-s23-plus:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S23 Plus rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx564",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s23-ultra",
+      "id": "camera_module:samsung:galaxy-s23-ultra:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S23 Ultra rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s23-ultra-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s23-ultra",
+      "id": "camera_module:samsung:galaxy-s23-ultra:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S23 Ultra rear_telephoto_3x",
+      "sensor_id": "sensor:samsung-galaxy-s23-ultra-rear-telephoto-3x",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s23-ultra",
+      "id": "camera_module:samsung:galaxy-s23-ultra:rear-telephoto-long",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_long",
+      "name": "Galaxy S23 Ultra rear_telephoto_long",
+      "sensor_id": "sensor:samsung-galaxy-s23-ultra-rear-telephoto-long",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s23-ultra",
+      "id": "camera_module:samsung:galaxy-s23-ultra:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S23 Ultra rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s23-ultra-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s23",
+      "id": "camera_module:samsung:galaxy-s23:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S23 rear_main",
+      "sensor_id": "sensor:model:samsung-gn3",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s23",
+      "id": "camera_module:samsung:galaxy-s23:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S23 rear_telephoto_3x",
+      "sensor_id": "sensor:model:samsung-s5k3k1",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s23",
+      "id": "camera_module:samsung:galaxy-s23:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S23 rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx564",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s24-plus",
+      "id": "camera_module:samsung:galaxy-s24-plus:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S24 Plus rear_main",
+      "sensor_id": "sensor:model:samsung-gn3",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s24-plus",
+      "id": "camera_module:samsung:galaxy-s24-plus:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S24 Plus rear_telephoto_3x",
+      "sensor_id": "sensor:model:samsung-s5k3k1",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s24-plus",
+      "id": "camera_module:samsung:galaxy-s24-plus:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S24 Plus rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx564",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s24-ultra",
+      "id": "camera_module:samsung:galaxy-s24-ultra:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S24 Ultra rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s24-ultra-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s24-ultra",
+      "id": "camera_module:samsung:galaxy-s24-ultra:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S24 Ultra rear_telephoto_3x",
+      "sensor_id": "sensor:samsung-galaxy-s24-ultra-rear-telephoto-3x",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s24-ultra",
+      "id": "camera_module:samsung:galaxy-s24-ultra:rear-telephoto-long",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_long",
+      "name": "Galaxy S24 Ultra rear_telephoto_long",
+      "sensor_id": "sensor:samsung-galaxy-s24-ultra-rear-telephoto-long",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s24-ultra",
+      "id": "camera_module:samsung:galaxy-s24-ultra:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S24 Ultra rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s24-ultra-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s24",
+      "id": "camera_module:samsung:galaxy-s24:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S24 rear_main",
+      "sensor_id": "sensor:model:samsung-gn3",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s24",
+      "id": "camera_module:samsung:galaxy-s24:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S24 rear_telephoto_3x",
+      "sensor_id": "sensor:model:samsung-s5k3k1",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s24",
+      "id": "camera_module:samsung:galaxy-s24:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S24 rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx564",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s25-plus",
+      "id": "camera_module:samsung:galaxy-s25-plus:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S25 Plus rear_main",
+      "sensor_id": "sensor:model:samsung-gn3",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s25-plus",
+      "id": "camera_module:samsung:galaxy-s25-plus:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S25 Plus rear_telephoto_3x",
+      "sensor_id": "sensor:model:samsung-s5k3k1",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s25-plus",
+      "id": "camera_module:samsung:galaxy-s25-plus:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S25 Plus rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx564",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s25-ultra",
+      "id": "camera_module:samsung:galaxy-s25-ultra:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S25 Ultra rear_main",
+      "sensor_id": "sensor:samsung-galaxy-s25-ultra-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s25-ultra",
+      "id": "camera_module:samsung:galaxy-s25-ultra:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S25 Ultra rear_telephoto_3x",
+      "sensor_id": "sensor:samsung-galaxy-s25-ultra-rear-telephoto-3x",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s25-ultra",
+      "id": "camera_module:samsung:galaxy-s25-ultra:rear-telephoto-long",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_long",
+      "name": "Galaxy S25 Ultra rear_telephoto_long",
+      "sensor_id": "sensor:samsung-galaxy-s25-ultra-rear-telephoto-long",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s25-ultra",
+      "id": "camera_module:samsung:galaxy-s25-ultra:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S25 Ultra rear_ultrawide",
+      "sensor_id": "sensor:samsung-galaxy-s25-ultra-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s25",
+      "id": "camera_module:samsung:galaxy-s25:rear-main",
+      "manufacturer": "Samsung",
+      "module_role": "rear_main",
+      "name": "Galaxy S25 rear_main",
+      "sensor_id": "sensor:model:samsung-gn3",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s25",
+      "id": "camera_module:samsung:galaxy-s25:rear-telephoto-3x",
+      "manufacturer": "Samsung",
+      "module_role": "rear_telephoto_3x",
+      "name": "Galaxy S25 rear_telephoto_3x",
+      "sensor_id": "sensor:model:samsung-s5k3k1",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:samsung:galaxy-s25",
+      "id": "camera_module:samsung:galaxy-s25:rear-ultrawide",
+      "manufacturer": "Samsung",
+      "module_role": "rear_ultrawide",
+      "name": "Galaxy S25 rear_ultrawide",
+      "sensor_id": "sensor:model:sony-imx564",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-iii",
+      "id": "camera_module:sony:xperia-1-iii:rear-main",
+      "manufacturer": "Sony",
+      "module_role": "rear_main",
+      "name": "Xperia 1 III rear_main",
+      "sensor_id": "sensor:sony-xperia-1-iii-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-iii",
+      "id": "camera_module:sony:xperia-1-iii:rear-telephoto",
+      "manufacturer": "Sony",
+      "module_role": "rear_telephoto",
+      "name": "Xperia 1 III rear_telephoto",
+      "sensor_id": "sensor:sony-xperia-1-iii-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-iii",
+      "id": "camera_module:sony:xperia-1-iii:rear-ultrawide",
+      "manufacturer": "Sony",
+      "module_role": "rear_ultrawide",
+      "name": "Xperia 1 III rear_ultrawide",
+      "sensor_id": "sensor:sony-xperia-1-iii-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-iv",
+      "id": "camera_module:sony:xperia-1-iv:rear-main",
+      "manufacturer": "Sony",
+      "module_role": "rear_main",
+      "name": "Xperia 1 IV rear_main",
+      "sensor_id": "sensor:sony-xperia-1-iv-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-iv",
+      "id": "camera_module:sony:xperia-1-iv:rear-telephoto",
+      "manufacturer": "Sony",
+      "module_role": "rear_telephoto",
+      "name": "Xperia 1 IV rear_telephoto",
+      "sensor_id": "sensor:sony-xperia-1-iv-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-iv",
+      "id": "camera_module:sony:xperia-1-iv:rear-ultrawide",
+      "manufacturer": "Sony",
+      "module_role": "rear_ultrawide",
+      "name": "Xperia 1 IV rear_ultrawide",
+      "sensor_id": "sensor:sony-xperia-1-iv-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-v",
+      "id": "camera_module:sony:xperia-1-v:rear-main",
+      "manufacturer": "Sony",
+      "module_role": "rear_main",
+      "name": "Xperia 1 V rear_main",
+      "sensor_id": "sensor:sony-xperia-1-v-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-v",
+      "id": "camera_module:sony:xperia-1-v:rear-telephoto",
+      "manufacturer": "Sony",
+      "module_role": "rear_telephoto",
+      "name": "Xperia 1 V rear_telephoto",
+      "sensor_id": "sensor:sony-xperia-1-v-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-v",
+      "id": "camera_module:sony:xperia-1-v:rear-ultrawide",
+      "manufacturer": "Sony",
+      "module_role": "rear_ultrawide",
+      "name": "Xperia 1 V rear_ultrawide",
+      "sensor_id": "sensor:sony-xperia-1-v-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-vi",
+      "id": "camera_module:sony:xperia-1-vi:rear-main",
+      "manufacturer": "Sony",
+      "module_role": "rear_main",
+      "name": "Xperia 1 VI rear_main",
+      "sensor_id": "sensor:sony-xperia-1-vi-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-vi",
+      "id": "camera_module:sony:xperia-1-vi:rear-telephoto",
+      "manufacturer": "Sony",
+      "module_role": "rear_telephoto",
+      "name": "Xperia 1 VI rear_telephoto",
+      "sensor_id": "sensor:sony-xperia-1-vi-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-1-vi",
+      "id": "camera_module:sony:xperia-1-vi:rear-ultrawide",
+      "manufacturer": "Sony",
+      "module_role": "rear_ultrawide",
+      "name": "Xperia 1 VI rear_ultrawide",
+      "sensor_id": "sensor:sony-xperia-1-vi-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-10-iv",
+      "id": "camera_module:sony:xperia-10-iv:rear-main",
+      "manufacturer": "Sony",
+      "module_role": "rear_main",
+      "name": "Xperia 10 IV rear_main",
+      "sensor_id": "sensor:sony-xperia-10-iv-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-10-iv",
+      "id": "camera_module:sony:xperia-10-iv:rear-telephoto",
+      "manufacturer": "Sony",
+      "module_role": "rear_telephoto",
+      "name": "Xperia 10 IV rear_telephoto",
+      "sensor_id": "sensor:sony-xperia-10-iv-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-10-iv",
+      "id": "camera_module:sony:xperia-10-iv:rear-ultrawide",
+      "manufacturer": "Sony",
+      "module_role": "rear_ultrawide",
+      "name": "Xperia 10 IV rear_ultrawide",
+      "sensor_id": "sensor:sony-xperia-10-iv-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-10-v",
+      "id": "camera_module:sony:xperia-10-v:rear-main",
+      "manufacturer": "Sony",
+      "module_role": "rear_main",
+      "name": "Xperia 10 V rear_main",
+      "sensor_id": "sensor:sony-xperia-10-v-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-10-v",
+      "id": "camera_module:sony:xperia-10-v:rear-telephoto",
+      "manufacturer": "Sony",
+      "module_role": "rear_telephoto",
+      "name": "Xperia 10 V rear_telephoto",
+      "sensor_id": "sensor:sony-xperia-10-v-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-10-v",
+      "id": "camera_module:sony:xperia-10-v:rear-ultrawide",
+      "manufacturer": "Sony",
+      "module_role": "rear_ultrawide",
+      "name": "Xperia 10 V rear_ultrawide",
+      "sensor_id": "sensor:sony-xperia-10-v-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-10-vi",
+      "id": "camera_module:sony:xperia-10-vi:rear-main",
+      "manufacturer": "Sony",
+      "module_role": "rear_main",
+      "name": "Xperia 10 VI rear_main",
+      "sensor_id": "sensor:sony-xperia-10-vi-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-10-vi",
+      "id": "camera_module:sony:xperia-10-vi:rear-ultrawide",
+      "manufacturer": "Sony",
+      "module_role": "rear_ultrawide",
+      "name": "Xperia 10 VI rear_ultrawide",
+      "sensor_id": "sensor:sony-xperia-10-vi-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-5-iii",
+      "id": "camera_module:sony:xperia-5-iii:rear-main",
+      "manufacturer": "Sony",
+      "module_role": "rear_main",
+      "name": "Xperia 5 III rear_main",
+      "sensor_id": "sensor:sony-xperia-5-iii-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-5-iii",
+      "id": "camera_module:sony:xperia-5-iii:rear-telephoto",
+      "manufacturer": "Sony",
+      "module_role": "rear_telephoto",
+      "name": "Xperia 5 III rear_telephoto",
+      "sensor_id": "sensor:sony-xperia-5-iii-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-5-iii",
+      "id": "camera_module:sony:xperia-5-iii:rear-ultrawide",
+      "manufacturer": "Sony",
+      "module_role": "rear_ultrawide",
+      "name": "Xperia 5 III rear_ultrawide",
+      "sensor_id": "sensor:sony-xperia-5-iii-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-5-iv",
+      "id": "camera_module:sony:xperia-5-iv:rear-main",
+      "manufacturer": "Sony",
+      "module_role": "rear_main",
+      "name": "Xperia 5 IV rear_main",
+      "sensor_id": "sensor:sony-xperia-5-iv-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-5-iv",
+      "id": "camera_module:sony:xperia-5-iv:rear-telephoto",
+      "manufacturer": "Sony",
+      "module_role": "rear_telephoto",
+      "name": "Xperia 5 IV rear_telephoto",
+      "sensor_id": "sensor:sony-xperia-5-iv-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-5-iv",
+      "id": "camera_module:sony:xperia-5-iv:rear-ultrawide",
+      "manufacturer": "Sony",
+      "module_role": "rear_ultrawide",
+      "name": "Xperia 5 IV rear_ultrawide",
+      "sensor_id": "sensor:sony-xperia-5-iv-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-5-v",
+      "id": "camera_module:sony:xperia-5-v:rear-main",
+      "manufacturer": "Sony",
+      "module_role": "rear_main",
+      "name": "Xperia 5 V rear_main",
+      "sensor_id": "sensor:sony-xperia-5-v-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:sony:xperia-5-v",
+      "id": "camera_module:sony:xperia-5-v:rear-ultrawide",
+      "manufacturer": "Sony",
+      "module_role": "rear_ultrawide",
+      "name": "Xperia 5 V rear_ultrawide",
+      "sensor_id": "sensor:sony-xperia-5-v-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:redmi-note-11-pro-5g",
+      "id": "camera_module:xiaomi:redmi-note-11-pro-5g:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Redmi Note 11 Pro 5G rear_main",
+      "sensor_id": "sensor:xiaomi-redmi-note-11-pro-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:redmi-note-11-pro-5g",
+      "id": "camera_module:xiaomi:redmi-note-11-pro-5g:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Redmi Note 11 Pro 5G rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-redmi-note-11-pro-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:redmi-note-12-pro-5g",
+      "id": "camera_module:xiaomi:redmi-note-12-pro-5g:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Redmi Note 12 Pro 5G rear_main",
+      "sensor_id": "sensor:xiaomi-redmi-note-12-pro-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:redmi-note-12-pro-5g",
+      "id": "camera_module:xiaomi:redmi-note-12-pro-5g:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Redmi Note 12 Pro 5G rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-redmi-note-12-pro-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:redmi-note-13-pro-5g",
+      "id": "camera_module:xiaomi:redmi-note-13-pro-5g:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Redmi Note 13 Pro+ 5G rear_main",
+      "sensor_id": "sensor:xiaomi-redmi-note-13-pro-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:redmi-note-13-pro-5g",
+      "id": "camera_module:xiaomi:redmi-note-13-pro-5g:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Redmi Note 13 Pro+ 5G rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-redmi-note-13-pro-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:redmi-note-14-pro-5g",
+      "id": "camera_module:xiaomi:redmi-note-14-pro-5g:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Redmi Note 14 Pro 5G rear_main",
+      "sensor_id": "sensor:xiaomi-redmi-note-14-pro-5g-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:redmi-note-14-pro-5g",
+      "id": "camera_module:xiaomi:redmi-note-14-pro-5g:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Redmi Note 14 Pro 5G rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-redmi-note-14-pro-5g-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-12-pro",
+      "id": "camera_module:xiaomi:xiaomi-12-pro:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 12 Pro rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-12-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-12-pro",
+      "id": "camera_module:xiaomi:xiaomi-12-pro:rear-telephoto",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_telephoto",
+      "name": "Xiaomi 12 Pro rear_telephoto",
+      "sensor_id": "sensor:xiaomi-xiaomi-12-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-12-pro",
+      "id": "camera_module:xiaomi:xiaomi-12-pro:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 12 Pro rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-12-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-12",
+      "id": "camera_module:xiaomi:xiaomi-12:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 12 rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-12-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-12",
+      "id": "camera_module:xiaomi:xiaomi-12:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 12 rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-12-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-12t-pro",
+      "id": "camera_module:xiaomi:xiaomi-12t-pro:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 12T Pro rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-12t-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-12t-pro",
+      "id": "camera_module:xiaomi:xiaomi-12t-pro:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 12T Pro rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-12t-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-12t",
+      "id": "camera_module:xiaomi:xiaomi-12t:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 12T rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-12t-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-12t",
+      "id": "camera_module:xiaomi:xiaomi-12t:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 12T rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-12t-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-13-pro",
+      "id": "camera_module:xiaomi:xiaomi-13-pro:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 13 Pro rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-13-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-13-pro",
+      "id": "camera_module:xiaomi:xiaomi-13-pro:rear-telephoto",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_telephoto",
+      "name": "Xiaomi 13 Pro rear_telephoto",
+      "sensor_id": "sensor:xiaomi-xiaomi-13-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-13-pro",
+      "id": "camera_module:xiaomi:xiaomi-13-pro:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 13 Pro rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-13-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-13-ultra",
+      "id": "camera_module:xiaomi:xiaomi-13-ultra:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 13 Ultra rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-13-ultra-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-13-ultra",
+      "id": "camera_module:xiaomi:xiaomi-13-ultra:rear-telephoto",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_telephoto",
+      "name": "Xiaomi 13 Ultra rear_telephoto",
+      "sensor_id": "sensor:xiaomi-xiaomi-13-ultra-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-13-ultra",
+      "id": "camera_module:xiaomi:xiaomi-13-ultra:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 13 Ultra rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-13-ultra-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-13",
+      "id": "camera_module:xiaomi:xiaomi-13:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 13 rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-13-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-13",
+      "id": "camera_module:xiaomi:xiaomi-13:rear-telephoto",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_telephoto",
+      "name": "Xiaomi 13 rear_telephoto",
+      "sensor_id": "sensor:xiaomi-xiaomi-13-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-13",
+      "id": "camera_module:xiaomi:xiaomi-13:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 13 rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-13-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-14-pro",
+      "id": "camera_module:xiaomi:xiaomi-14-pro:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 14 Pro rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-14-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-14-pro",
+      "id": "camera_module:xiaomi:xiaomi-14-pro:rear-telephoto",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_telephoto",
+      "name": "Xiaomi 14 Pro rear_telephoto",
+      "sensor_id": "sensor:xiaomi-xiaomi-14-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-14-pro",
+      "id": "camera_module:xiaomi:xiaomi-14-pro:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 14 Pro rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-14-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-14-ultra",
+      "id": "camera_module:xiaomi:xiaomi-14-ultra:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 14 Ultra rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-14-ultra-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-14-ultra",
+      "id": "camera_module:xiaomi:xiaomi-14-ultra:rear-telephoto",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_telephoto",
+      "name": "Xiaomi 14 Ultra rear_telephoto",
+      "sensor_id": "sensor:xiaomi-xiaomi-14-ultra-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-14-ultra",
+      "id": "camera_module:xiaomi:xiaomi-14-ultra:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 14 Ultra rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-14-ultra-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-14",
+      "id": "camera_module:xiaomi:xiaomi-14:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 14 rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-14-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-14",
+      "id": "camera_module:xiaomi:xiaomi-14:rear-telephoto",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_telephoto",
+      "name": "Xiaomi 14 rear_telephoto",
+      "sensor_id": "sensor:xiaomi-xiaomi-14-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-14",
+      "id": "camera_module:xiaomi:xiaomi-14:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 14 rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-14-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-15-pro",
+      "id": "camera_module:xiaomi:xiaomi-15-pro:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 15 Pro rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-15-pro-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-15-pro",
+      "id": "camera_module:xiaomi:xiaomi-15-pro:rear-telephoto",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_telephoto",
+      "name": "Xiaomi 15 Pro rear_telephoto",
+      "sensor_id": "sensor:xiaomi-xiaomi-15-pro-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-15-pro",
+      "id": "camera_module:xiaomi:xiaomi-15-pro:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 15 Pro rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-15-pro-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-15-ultra",
+      "id": "camera_module:xiaomi:xiaomi-15-ultra:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 15 Ultra rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-15-ultra-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-15-ultra",
+      "id": "camera_module:xiaomi:xiaomi-15-ultra:rear-telephoto",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_telephoto",
+      "name": "Xiaomi 15 Ultra rear_telephoto",
+      "sensor_id": "sensor:xiaomi-xiaomi-15-ultra-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-15-ultra",
+      "id": "camera_module:xiaomi:xiaomi-15-ultra:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 15 Ultra rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-15-ultra-rear-ultrawide",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-15",
+      "id": "camera_module:xiaomi:xiaomi-15:rear-main",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_main",
+      "name": "Xiaomi 15 rear_main",
+      "sensor_id": "sensor:xiaomi-xiaomi-15-rear-main",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-15",
+      "id": "camera_module:xiaomi:xiaomi-15:rear-telephoto",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_telephoto",
+      "name": "Xiaomi 15 rear_telephoto",
+      "sensor_id": "sensor:xiaomi-xiaomi-15-rear-telephoto",
+      "status": "good_estimate"
+    },
+    {
+      "device_id": "device:xiaomi:xiaomi-15",
+      "id": "camera_module:xiaomi:xiaomi-15:rear-ultrawide",
+      "manufacturer": "Xiaomi",
+      "module_role": "rear_ultrawide",
+      "name": "Xiaomi 15 rear_ultrawide",
+      "sensor_id": "sensor:xiaomi-xiaomi-15-rear-ultrawide",
+      "status": "good_estimate"
+    }
+  ]
+}

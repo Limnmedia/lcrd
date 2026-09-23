@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Limnmedia/lcrd/schema/source.schema.json",
+  "title": "LCRD source",
+  "type": "object",
+  "required": ["id", "title", "source_type"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^source:"},
+    "title": {"type": "string", "minLength": 1},
+    "publisher": {"type": ["string", "null"]},
+    "url": {"type": ["string", "null"], "format": "uri"},
+    "source_type": {"type": "string"},
+    "accessed": {"type": ["string", "null"]},
+    "notes": {"type": ["string", "null"]}
+  },
+  "additionalProperties": true
+}
