@@ -27,3 +27,8 @@ observations and must remain unchanged.
 
 Sensor IDs are source-record identifiers when the actual sensor chip identity
 is unknown. LCRD does not invent a chip identity from a physical dimension.
+
+Do not casually rename a stable ID after publication. A display-name change or
+new alias does not require an ID change; an actual entity correction may
+require a deliberate deprecated/replaced-by record instead. See
+[`adr/0002-stable-identifiers.md`](adr/0002-stable-identifiers.md).

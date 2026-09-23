@@ -9,6 +9,17 @@ where that information came from.
 LIMNTPS is one consumer, not LCRD's defining scope. The repository is
 currently an **unreleased research snapshot** prepared for public review.
 
+## Start here
+
+Read in this order:
+
+1. [`docs/DATA_MODEL.md`](docs/DATA_MODEL.md) — canonical entities and relationships
+2. [`docs/PROVENANCE.md`](docs/PROVENANCE.md) — evidence, geometry methods, and traceability
+3. [`docs/IDENTIFIERS.md`](docs/IDENTIFIERS.md) — stable public IDs and identity boundaries
+4. [`docs/CONSUMING_LCRD.md`](docs/CONSUMING_LCRD.md) — distribution lookup examples
+5. [`docs/TRACEABILITY.md`](docs/TRACEABILITY.md) — representative end-to-end audits
+6. [`docs/adr/`](docs/adr/) — short records explaining the major design decisions
+
 ## What is included
 
 The `Research/` directory contains:
@@ -23,9 +34,11 @@ The `Research/` directory contains:
 - `LIMNTPS_LCRD_EXIF_CODEX_HANDOFF.md`, the integration handoff for the
   LIMNTPS consumer.
 
-The canonical public data is under `data/`. JSON Schema contracts are under
-`schema/`; generated consumer files are under `dist/`. The original research
-CSVs remain under `Research/` as an auditable migration source and are not the
+The canonical public data is under `data/`; see [`data/README.md`](data/README.md).
+JSON Schema contracts are under `schema/`; generated consumer files are under
+`dist/`; see [`dist/README.md`](dist/README.md). The original research CSVs
+remain under `Research/` as historical/supporting migration material; see
+[`Research/README.md`](Research/README.md). Research is not the
 consumer-facing database format.
 
 ## Data principles
@@ -53,15 +66,17 @@ individual provenance even when a downstream consumer permits automatic use.
 The only runtime requirement is Python 3.10 or newer:
 
 ```text
-python tools/lcrd.py migrate
 python tools/lcrd.py validate
 python tools/lcrd.py build
+python -m unittest discover -s tests -v
 ```
 
-`migrate` is used when the preserved research inputs change. `validate` checks
+Run those three commands for a normal data or tooling change. `validate` checks
 stable IDs, relationships, observations, sources, and sensor dimensions.
 `build` produces `dist/lcrd.json`, `dist/lcrd.min.json`, and `dist/lcrd.csv`.
-Generated JSON uses `lcrdVersion` `0.1.0` and `schemaVersion` `1.0.0`.
+`migrate` is reserved for changes to the preserved research inputs and may
+rewrite canonical data; use it only when that is intended. Generated JSON uses
+`lcrdVersion` `0.1.0` and `schemaVersion` `1.0.0`.
 
 See [`docs/CONSUMING_LCRD.md`](docs/CONSUMING_LCRD.md) for general consumer
 examples and [`docs/DATA_MODEL.md`](docs/DATA_MODEL.md) for the entity model.

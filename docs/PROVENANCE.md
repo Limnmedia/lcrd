@@ -20,3 +20,8 @@ literal physical diagonals; any converted dimensions remain estimates.
 Downstream consumers may choose their own automatic-use policy, but they must
 not silently promote estimated or derived geometry to manufacturer-published
 facts.
+
+The governing rule is **preserve observations; derive interpretations**.
+Identity confidence, geometry evidence, geometry method, and source provenance
+are separate concepts. See [`DATA_MODEL.md`](DATA_MODEL.md) for relationships
+and [`TRACEABILITY.md`](TRACEABILITY.md) for a repeatable audit procedure.

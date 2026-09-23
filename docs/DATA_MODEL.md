@@ -29,3 +29,7 @@ sensors remain separate rather than being merged by dimensions alone.
 `dist/lcrd.json` is relational and provenance-rich. `dist/lcrd.min.json` is a
 smaller lookup view. `dist/lcrd.csv` is a convenience flattening of
 observations and cannot express all relationships without repeating data.
+
+For a compact end-to-end audit of real records, see
+[`TRACEABILITY.md`](TRACEABILITY.md). The JSON Schemas under `schema/` define
+structure; they do not replace this conceptual model.
