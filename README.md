@@ -6,8 +6,8 @@ metadata. It is designed for software that needs to understand what imaging
 hardware produced an image, what physical geometry that hardware uses, and
 where that information came from.
 
-LIMNTPS is one consumer, not LCRD's defining scope. The repository is
-currently an **unreleased research snapshot** prepared for public review.
+LIMNTPS is one consumer, not LCRD's defining scope. LCRD v0.1.0 is a released
+reference dataset now maintained through incremental, evidence-driven updates.
 
 ## Start here
 
@@ -19,6 +19,7 @@ Read in this order:
 4. [`docs/CONSUMING_LCRD.md`](docs/CONSUMING_LCRD.md) — distribution lookup examples
 5. [`docs/TRACEABILITY.md`](docs/TRACEABILITY.md) — representative end-to-end audits
 6. [`docs/adr/`](docs/adr/) — short records explaining the major design decisions
+7. [`docs/ROADMAP.md`](docs/ROADMAP.md) — post-release maintenance direction
 
 ## What is included
 
