@@ -13,6 +13,13 @@ contributions under CC BY 4.0. Contributors retain whatever rights they retain
 under those licenses; this project does not require a copyright transfer, CLA,
 or DCO.
 
+The repository-wide boundary is purpose-based: schemas, tests, workflows,
+scripts, and build or validation infrastructure are software and use
+Apache-2.0; original database content, documentation, and applicable research
+material use CC BY 4.0. Research files may contain third-party material, which
+is not relicensed by LCRD. An explicit license on an individual file takes
+precedence.
+
 Do not submit copyrighted manufacturer images, proprietary documents, sample
 media, or other material that you do not have the right to redistribute.
 Facts and properly attributed observations are the intended contribution model.

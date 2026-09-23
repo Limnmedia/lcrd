@@ -90,11 +90,11 @@ by the field descriptions in the freeze notes.
 
 ## Status and licensing
 
-The repository uses a dual-license structure:
+The repository uses a purpose-based dual-license structure:
 
 - Data and distributions: [CC BY 4.0](LICENSES/CC-BY-4.0.txt)
-- Tools, tests, and schemas: [Apache-2.0](LICENSES/Apache-2.0.txt)
-- Original documentation: CC BY 4.0
+- Original documentation and applicable LCRD-authored research material: CC BY 4.0
+- Tools, tests, schemas, workflows, and build/validation infrastructure: [Apache-2.0](LICENSES/Apache-2.0.txt)
 
 Recommended data attribution: “LCRD — LIMN Camera Reference Database,
 LIMNMEDIA LLC, licensed under CC BY 4.0.” See [`LICENSE`](LICENSE) for the
