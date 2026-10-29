@@ -1,10 +1,8 @@
 # LCRD — LIMN Camera Reference Database
 
-LCRD is a machine-readable, provenance-aware reference database for cameras,
-imaging devices, physical camera modules, sensors, lenses, and observed camera
-metadata. It is designed for software that needs to understand what imaging
-hardware produced an image, what physical geometry that hardware uses, and
-where that information came from.
+**LCRD is LIMNMEDIA's camera-reference database, helping software identify imaging hardware, use documented sensor geometry, and trace where camera specifications came from.**
+
+LCRD (LIMN Camera Reference Database) is a machine-readable, provenance-aware dataset covering cameras, imaging devices, physical camera modules, sensors, lenses, and observed metadata. Camera names and image metadata alone do not always establish the physical geometry needed for reliable calculations. LCRD keeps those distinctions and their evidence visible instead of silently guessing.
 
 LIMNTPS is one consumer, not LCRD's defining scope. LCRD v0.1.0 is a released
 reference dataset now maintained through incremental, evidence-driven updates.
